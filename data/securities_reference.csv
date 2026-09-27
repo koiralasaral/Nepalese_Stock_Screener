@@ -1,0 +1,650 @@
+id,companyName,symbol,securityName,status,companyEmail,website,sectorName,regulatoryBody,instrumentType
+131,Nabil Bank Limited,NABIL,Nabil Bank Limited,A,company.affairs@nabilbank.com,www.nabilbank.com,Commercial Banks,Nepal Rastra Bank,Equity
+132,Nepal Investment Mega Bank Limited,NIMB,Nepal Investment Mega Bank Limited,A,info@nimb.com.np,http://www.nimb.com.np,Commercial Banks,Nepal Rastra Bank,Equity
+133,Standard Chartered Bank  Nepal Limited,SCB,Standard Chartered Bank Limited,A,Legal.Nepal@sc.com,www.sc.com/np,Commercial Banks,Nepal Rastra Bank,Equity
+134,Himalayan Bank Limited,HBL,Himalayan Bank Limited,A,legal@himalayanbank.com,https://www.himalayanbank.com,Commercial Banks,Nepal Rastra Bank,Equity
+135,Nepal SBI Bank Limited,SBI,Nepal SBI Bank Limited,A,cs@nsbl.com.np,https://nsbl.statebank,Commercial Banks,Nepal Rastra Bank,Equity
+136,Nepal Bangladesh Bank Limited,NBB,Nepal Bangladesh Bank Limited,D,bishwapoudel@nbbl.com.np,,Commercial Banks,Nepal Rastra Bank,Equity
+137,Everest Bank Limited,EBL,Everest Bank Limited,A,sharedept@ebl.com.np,www.everestbankltd.com,Commercial Banks,Nepal Rastra Bank,Equity
+138,Bank of Kathmandu Ltd.,BOKL,Bank of Kathmandu Ltd.,D,deepak.gautam@bok.com.np,,Commercial Banks,Nepal Rastra Bank,Equity
+139,NIC Asia Bank Ltd.,NICA,NIC Asia Bank Ltd.,A,nica.nots@nicasiabank.com,www.nicasiabank.com,Commercial Banks,Nepal Rastra Bank,Equity
+140,Machhapuchhre Bank Limited,MBL,Machhapuchhre Bank Limited,A,machbank@mbl.com.np,http://www.machbank.com,Commercial Banks,Nepal Rastra Bank,Equity
+141,Laxmi Sunrise Bank Limited,LSL,Laxmi Sunrise Bank Limited,A,piyush.aryal@laxmisunrise.com,www.laxmisunrise.com,Commercial Banks,Nepal Rastra Bank,Equity
+142,Kumari Bank Limited,KBL,Kumari Bank Limited,A,info@kumaribank.com,http://www.kumaribank.com,Commercial Banks,Nepal Rastra Bank,Equity
+143,Lumbini Bank Limited,LUBL,Lumbini Bank Limited,D,info@lumbinibank.com.np,,Commercial Banks,Nepal Rastra Bank,Equity
+144,Nepal Credit And Commercial Bank Limited,NCCB,Nepal Credit And Commercial Bank Limited,D,corporate@nccbank.com.np,http://www.nccbank.com.np,Commercial Banks,Nepal Rastra Bank,Equity
+145,Siddhartha Bank Limited,SBL,Siddhartha Bank Limited,A,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Equity
+146,Yak And Yeti Hotel Limited,YHL,Yak And Yeti Hotel Limited,S,yhl@yhl.com,,Hotels And Tourism,Ministry of Tourism,Equity
+147,Soaltee Hotel Limited,SHL,Soaltee Hotel Limited,A,lbkhatri@soaltee.com.np,http://www.soalteehotel.com,Hotels And Tourism,Ministry of Tourism,Equity
+148,Taragaon Regency Hotel Limited,TRH,Taragaon Regency Hotel Limited,A,info@taragaon.com,,Hotels And Tourism,Ministry of Tourism,Equity
+149,Oriental Hotels Limited,OHL,Oriental Hotels Limited,A,legal@radkat.com.np,,Hotels And Tourism,Ministry of Tourism,Equity
+150,National Pro. And Eco. Dev. Centre,ESC,National Pro. And Eco. Dev. Centre,D,esc@esc.com,,Others,N/A,Equity
+151,Nepal Film Development Company Limited,NFD,Nepal Film Development Company Limited,S,nfd@nfd.com,,Others,N/A,Equity
+152,National Hydro Power Company Limited,NHPC,National Hydro Power Company Limited,A,info@nhpcl.com,,Hydro Power,Nepal Hydropower Board,Equity
+153,Butwal Power Company Limited,BPCL,Butwal Power Company Limited,A,hari.budhathoki@bpc.com.np,http://www.bpc.com.np,Hydro Power,Nepal Hydropower Board,Equity
+154,Chilime Hydropower Company Limited,CHCL,Chilime Hydropower Company Limited,A,info@chilime.com.np,www.chilime.com.np,Hydro Power,Nepal Hydropower Board,Equity
+155,Salt Trading Corporation,STC,Salt Trading Corporation,A,legalstcnepal@gmail.com,www.stcnepal.com,Tradings,Department of Industry,Equity
+156,Bishal Bazar Company Limited,BBC,Bishal Bazar Company Limited,A,info@bishalbazar.com.np,,Tradings,Department of Industry,Equity
+157,Nepal Byapar Bikash Company(Koshi) Limited,NBCK,Nepal Byapar Bikash Company(Koshi) Limited,D,nbck@nbck.com,,Tradings,Department of Industry,Equity
+158,Nepal Tading Limited,NTL,Nepal Tading Limited,S,ntl@ntl.com,,Tradings,Department of Industry,Equity
+159,Nepal Welfare Company Limited,NWC,Nepal Welfare Company Limited,S,nwc@nwc.com,,Tradings,Department of Industry,Equity
+160,NIDC Development Bank Ltd.,NIDC,NIDC Development Bank Ltd.,D,nidc@nidc.org.np,http://www.nidc.org.np,Development Banks,Nepal Rastra Bank,Equity
+161,Nepal Development Bank Limited,NDB,Nepal Development Bank Limited,D,ndb@ndb.com,,Development Banks,Nepal Rastra Bank,Equity
+162,Grand Bank Nepal Limited,GRAND,Grand Bank Nepal Limited,D,dcbl@dcbl.com,,Commercial Banks,Nepal Rastra Bank,Equity
+163,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,NUBL,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,A,jagya.panta@nirdhan.com.np,www.nirdhan.com.np,Microfinance,Nepal Rastra Bank,Equity
+164,Chhimek Laghubitta Bittiya Sanstha Limited,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,A,info@chhimekbank.org.np,www.chhimekbank.org,Microfinance,Nepal Rastra Bank,Equity
+165,Paschimanchal Bikash Bank Limited,PDBL,Paschimanchal Bikash Bank Limited,D,pbbl@pbbl.com,,Development Banks,Nepal Rastra Bank,Equity
+166,Deprosc Laghubitta Bittiya Sanstha Limited,DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,A,info@deproscbank.com.np,www.deproscbank.com.np,Microfinance,Nepal Rastra Bank,Equity
+167,Gandaki Bikas BankLimited,GDBL1,Gandaki Bikas BankLimited,D,hop@gandakibank.com,,Development Banks,Nepal Rastra Bank,Equity
+168,Business Universal Development Bank Ltd.,BUDBL,Business Universal Development Bank Ltd.,D,info@budbank.com.np,http://www.budbank.com.np,Development Banks,Nepal Rastra Bank,Equity
+169,Siddhartha Development Bank Ltd.,SDBL,Siddhartha Development Bank Ltd.,D,info@sdbl.com.np,,Development Banks,Nepal Rastra Bank,Equity
+170,Bhrikuti Vikash Bank Limited,BBBL,Bhrikuti Vikash Bank Limited,D,vbb@vbb.com,,Development Banks,Nepal Rastra Bank,Equity
+171,Sanima Bank Limited,SANIMA,Sanima Bank Limited,A,sanima@sanimabank.com,www.sanimabank.com,Commercial Banks,Nepal Rastra Bank,Equity
+172,Narayani Development Bank Limited,NABBC,Narayani Development Bank Limited,A,info@ndbl.com.np,www.ndbl.com.np,Development Banks,Nepal Rastra Bank,Equity
+173,Bagheshwori Development Bank Limited,BBBLN,Bagheshwori Development Bank Limited,D,bdb@bdb.com,,Development Banks,Nepal Rastra Bank,Equity
+174,Sahayogi Bikas Bank Limited,SBBLJ,Sahayogi Bikas Bank Limited,D,sahayogibank@yahoo.com,http://www.sahayogibank.com.np,Development Banks,Nepal Rastra Bank,Equity
+175,Gurkha Development Bank Limited,GDBNL,Gurkha Development Bank Limited,D,info@gdbl.com.np,http://www.gdbl.com.np,Development Banks,Nepal Rastra Bank,Equity
+176,Nepal Insurance Co. Ltd.,NICL,Nepal Insurance Co. Ltd.,A,nic@nepalinsurance.com.np,www.nepalinsurance.com.np,Non Life Insurance,Nepal Insurance Board,Equity
+177,Rastriya Beema Company Limited,RBCL,Rastriya Beema Company Limited,A,info@rbcl.gov.np,,Non Life Insurance,Nepal Insurance Board,Equity
+178,National Life Insurance Co. Ltd.,NLICL,National Life Insurance Co. Ltd.,A,info@nationallife.com.np,www.nationallife.com.np,Life Insurance,Nepal Insurance Board,Equity
+179,Himalayan Everest Insurance Limited,HEI,Himalayan Everest Insurance Limited,A,subindra.shrestha@hei.com.np,,Non Life Insurance,Nepal Insurance Board,Equity
+180,United Ajod Insurance Limited,UAIL,United Ajod Insurance Limited,A,info@uail.com.np,www.unitedajodinsurance.com,Non Life Insurance,Nepal Insurance Board,Equity
+181,Everest Insurance Co. Ltd.,EIC,Everest Insurance Co. Ltd.,D,pradip@eic.com.np,,Non Life Insurance,Nepal Insurance Board,Equity
+182,Siddhartha Premier Insurance Limited,SPIL,Siddhartha Premier Insurance Limited,A,premier@picl.com.np,,Non Life Insurance,Nepal Insurance Board,Equity
+183,Neco Insurance Limited,NIL,Neco Insurance Limited,A,info@neco.com.np,http://www.neco.com.np,Non Life Insurance,Nepal Insurance Board,Equity
+184,Prabhu Insurance Limited,PRIN,Prabhu Insurance Ltd.,A,info@prabhuinsurance.com,http://www.prabhuinsurance.com,Non Life Insurance,Nepal Insurance Board,Equity
+185,Sagarmatha Lumbini Insurance Co. Limited,SALICO,Sagarmatha Lumbini Insurance Co. Limited,A,bishow.ad@sagarmathainsurance.com.np,,Non Life Insurance,Nepal Insurance Board,Equity
+186,IGI Prudential Insurance Limited,IGI,IGI Prudential insurance Limited,A,compliance@iginepal.com,http://www.igiprudential.com,Non Life Insurance,Nepal Insurance Board,Equity
+187,NEPAL LIFE INSURANCE COMPANY LIMITED,NLIC,Nepal Life Insurance Co. Ltd.,A,info@nepallife.com.np,www.nepallife.com.np,Life Insurance,Nepal Insurance Board,Equity
+188,Life Insurance Corporation (Nepal) Limited,LICN,Life Insurance Corporation (Nepal) Limited,A,cs@licnepal.com.np,http://www.licnepal.com.np,Life Insurance,Nepal Insurance Board,Equity
+189,Prudential Insurance Co. Ltd.,PICL,Prudential Insurance Co. Ltd.,D,info@pil.com.np,http://www.pil.com,Non Life Insurance,Nepal Insurance Board,Equity
+190,Lumbini General Insurance Co. Ltd.,LGIL,Lumbini General Insurance Co. Ltd.,D,devendra@lgic.com.np,,Non Life Insurance,Nepal Insurance Board,Equity
+192,Shikhar Insurance Co. Ltd.,SICL,Shikhar Insurance Co. Ltd.,A,info@shikharinsurance.com,http://www.shikharinsurance.com,Non Life Insurance,Nepal Insurance Board,Equity
+193,Morang Sugar Mills Limited,MSM,Morang Sugar Mills Limited,D,msm@msm.com,,Manufacturing And Processing,Department of Industry,Equity
+194,Nepal Finance Ltd.,NFS,Nepal Finance Ltd.,A,info@nepalfinance.com.np,www.nepalfinancelimited.com.np,Finance,Nepal Rastra Bank,Equity
+195,Bottlers Nepal (Balaju) Limited,BNL,Bottlers Nepal (Balaju) Limited,A,prburma@coca-cola.com.np,,Manufacturing And Processing,Department of Industry,Equity
+196,NIDC Capital Markets Ltd.,NCM,NIDC Capital Markets Ltd.,D,info@ncml.com.np,http://www.ncml.com.np,Finance,Nepal Rastra Bank,Equity
+197,Biratnagar Jute Mills Limited,BJM,Biratnagar Jute Mills Limited,D,bjm@bjm.com,,Manufacturing And Processing,Department of Industry,Equity
+198,Nepal Lube Oil Limited,NLO,Nepal Lube Oil Limited,A,subash.acharya@nepallubeoil.com,www.nepallubeoil.com,Manufacturing And Processing,Department of Industry,Equity
+199,Narayani National Finance Limited,NNFC,Narayani National Finance Limited,D,info@nnfl.com.np,http://www.nnfl.com.np,Finance,Nepal Rastra Bank,Equity
+200,Nepal Share Markets Ltd.,NSM,Nepal Share Markets Ltd.,S,nsm@nsm.com,,Finance,Nepal Rastra Bank,Equity
+201,Nepal Vanaspati Ghee Udhyog Limited,NVG,Nepal Vanaspati Ghee Udhyog Limited,S,nvg@nvg.com,,Manufacturing And Processing,Department of Industry,Equity
+202,Kailash Bikas Bank Ltd.,KBBL,Kailash Bikas Bank Ltd.,D,subashghimire@kailashbank.com,http://www.kailashbank.com,Development Banks,Nepal Rastra Bank,Equity
+203,Raghupati Jute Mills Limited,RJM,Raghupati Jute Mills Limited,S,account@srjml.com.np,,Manufacturing And Processing,Department of Industry,Equity
+204,Gurkhas Finance Ltd.,GUFL,Gurkhas Finance Ltd.,A,yan.rai@gurkhasfinance.com.np,www.gurkhasfinance.com.np,Finance,Nepal Rastra Bank,Equity
+205,Butwal Spinning Mills Limited,BSM,Butwal Spinning Mills Limited,S,bsm@bsm.com,,Manufacturing And Processing,Department of Industry,Equity
+206,Peoples Finance Ltd.,PFCL,Peoples Finance Ltd.,D,pfcl@pfcl.com,,Finance,Nepal Rastra Bank,Equity
+207,Gorakhkali Rubber Udhyog Limited,GRU,Gorakhkali Rubber Udhyog Limited,S,gru@gru.com,,Manufacturing And Processing,Department of Industry,Equity
+208,Union Finance Co. Ltd.,UFCL,Union Finance Co. Ltd.,D,ufl@union.com.np,,Finance,Nepal Rastra Bank,Equity
+209,Jyoti Sinning Mills Limited,JSM,Jyoti Sinning Mills Limited,S,jsm@jsm.com,,Manufacturing And Processing,Department of Industry,Equity
+210,Citizen Investment Trust,CIT,Citizen Investment Trust,A,cit.cmkt@gmail.com,nlk.org.np,Investment,Nepal Rastra Bank,Equity
+211,Arun Vanaspati Udhyog Limited,AVU,Arun Vanaspati Udhyog Limited,S,avu@avu.com,,Manufacturing And Processing,Department of Industry,Equity
+212,Nepal Aawas Finance Limited,NABB,Nepal Aawas Finance Limited,D,nabb@nabb.com,,Finance,Nepal Rastra Bank,Equity
+213,Bottlers Nepal (Terai) Limited,BNT,Bottlers Nepal (Terai) Limited,A,investorrelations@coca-cola.com.np,,Manufacturing And Processing,Department of Industry,Equity
+214,Narayani Finance Ltd.,NFL,Narayani Finance Ltd.,D,nfl@nfl.com,,Finance,Nepal Rastra Bank,Equity
+215,Harisiddhi Brick And Tiles Limited,HBT,Harisiddhi Brick And Tiles Limited,S,hbt@hbt.com,,Manufacturing And Processing,Department of Industry,Equity
+216,Ace Development Bank Ltd.,ACEDBL,Ace Development Bank Ltd.,D,info@ace.com.np,,Development Banks,Nepal Rastra Bank,Equity
+217,Birat Shoe Limited,BSL,Birat Shoe Limited,S,bsl@bsl.com,,Manufacturing And Processing,Department of Industry,Equity
+218,Yeti Finance Ltd.,YFL,Yeti Finance Ltd.,D,yfl@yfl.com,,Finance,Nepal Rastra Bank,Equity
+219,Unilever Nepal Limited,UNL,Unilever Nepal Limited,A,unl.shareholdersconnect@unilever.com,https://www.unilevernepal.com/,Manufacturing And Processing,Department of Industry,Equity
+220,Gorkha Finance Ltd.,GFLK,Gorkha Finance Ltd.,D,gflk@gflk.com,,Finance,Nepal Rastra Bank,Equity
+221,Samjhana Finance Co. Ltd.,SFC,Samjhana Finance Co. Ltd.,S,sfc@sfc.com,,Finance,Nepal Rastra Bank,Equity
+222,Nepal Khadya Udhyog Limited,NKU,Nepal Khadya Udhyog Limited,S,nku@nku.com,,Manufacturing And Processing,Department of Industry,Equity
+223,Universal Finance Ltd.,UFLK,Universal Finance Ltd.,D,uflk@uflk.com,,Finance,Nepal Rastra Bank,Equity
+224,Himgiri Textile Industries Limited,HTL,Himgiri Textile Industries Limited,D,htu@htu.com,,Manufacturing And Processing,Department of Industry,Equity
+225,Nepal Housing & Merchant Finance Ltd.,NHMF,Nepal Housing & Merchant Finance Ltd.,D,nhmf@nhmf.com,,Finance,Nepal Rastra Bank,Equity
+226,Shree Bhrikuti Pulp And Paper Limited,SBPP,Shree Bhrikuti Pulp And Paper Limited,S,sbpp@sbpp.com,,Manufacturing And Processing,Department of Industry,Equity
+227,Best Finance Company Ltd.,BFC,Best Finance Company Ltd.,A,info@bestfinance.com.np,www.bestfinance.com.np,Finance,Nepal Rastra Bank,Equity
+228,Fleur Himalayan Limited,FHL,Fleur Himalayan Limited,S,fhl@fhl.com,,Manufacturing And Processing,Department of Industry,Equity
+229,Maha Laxmi Finance Ltd.,MFL,Maha Laxmi Finance Ltd.,D,info@mahalaxmi.com.np,,Finance,Nepal Rastra Bank,Equity
+230,Shree Ram Sugar Mills Limited,SRS,Shree Ram Sugar Mills Limited,S,srs@srs.com,,Manufacturing And Processing,Department of Industry,Equity
+231,Lalitpur Finance Ltd.,LFC,Lalitpur Finance Ltd.,D,lfc@lfc.com,,Finance,Nepal Rastra Bank,Equity
+232,Goodwill Finance Limited,GFCL,Goodwill Finance Limited,A,info@goodwill.net.np,https://goodwillfinance.com.np/,Finance,Nepal Rastra Bank,Equity
+233,Nepal Bitumin And Barrel Udhyog Limited,NBBU,Nepal Bitumin And Barrel Udhyog Limited,S,nbbu@nbbu.com,,Manufacturing And Processing,Department of Industry,Equity
+234,Paschimanchal Finance Co. Ltd.,PFC,Paschimanchal Finance Co. Ltd.,D,paficol@gmail.com,,Finance,Nepal Rastra Bank,Equity
+235,Himalayan Distillery Limited,HDL,Himalayan Distillery Limited,A,info@himalayandistillery.com,https://himalayandistillery.com/,Manufacturing And Processing,Department of Industry,Equity
+236,Pokhara Finance Ltd.,PFL,Pokhara Finance Ltd.,A,info@pokharafinance.com.np,,Finance,Nepal Rastra Bank,Equity
+237,Lumbini Finance Ltd.,LFLC,Lumbini Finance Ltd.,D,lufil@mos.com.np,http://www.lumbinifinance.com.np,Finance,Nepal Rastra Bank,Equity
+238,NMB Bank Limited,NMB,NMB Bank Limited,A,pramod.dahal@nmb.com.np,http://www.nmb.com.np,Commercial Banks,Nepal Rastra Bank,Equity
+239,Siddharth Finance Ltd.,SFL,Siddharth Finance Ltd.,D,sfl.bhwa@gmail.com,,Finance,Nepal Rastra Bank,Equity
+240,Alpic Everest Finance Co. Ltd.,AEFL,Alpic Everest Finance Co. Ltd.,D,abc@abc.com,,Finance,Nepal Rastra Bank,Equity
+241,Nepal Bangladesh Finance & Leasing Co. Ltd.,NBFL,Nepal Bangladesh Finance & Leasing Co. Ltd.,D,abc@abc.com,,Finance,Nepal Rastra Bank,Equity
+242,United Finance Ltd.,UFL,United Finance Ltd.,D,shesh.dhungana@ufl.com.np,http://www.ufl.com.np,Finance,Nepal Rastra Bank,Equity
+243,International Leasing & Finance Co. Ltd.,ILFC,International Leasing & Finance Co. Ltd.,D,info@ilfco.com.np,http://www.ilfco.com.np,Finance,Nepal Rastra Bank,Equity
+244,Shree Investment Finance Co. Ltd.,SIFC,Shree Investment Finance Co. Ltd.,A,info@shreefinance.com.np,http://www.shreefinance.com.np,Finance,Nepal Rastra Bank,Equity
+245,Central Finance Co. Ltd.,CFCL,Central Finance Co. Ltd.,A,info@centralfinance.com.np,,Finance,Nepal Rastra Bank,Equity
+246,Nepal Shree Lanka Merchant Banking & Finance Ltd,NSLMB,Nepal Shree Lanka Merchant Banking & Finance Ltd,D,abc@abc.com,,Finance,Nepal Rastra Bank,Equity
+247,Premier Finance Co. Ltd.,PFCLL,Premier Finance Co. Ltd.,D,abc@abc.com,,Finance,Nepal Rastra Bank,Equity
+248,Nava Durga Finance Co. Ltd.,NDFL,Nava Durga Finance Co. Ltd.,D,abc@abc.com,,Finance,Nepal Rastra Bank,Equity
+249,Synergy Finance Ltd.,SYFL,Synergy Finance Ltd.,D,abc@abc.com,,Finance,Nepal Rastra Bank,Equity
+250,Janaki Finance Company Limited,JFL,Janaki Finance Company Limited,A,info@jfcjanakpur.com,,Finance,Nepal Rastra Bank,Equity
+251,Standard Finance Ltd.,STFL,Standard Finance Ltd.,D,abc@abc.com,,Finance,Nepal Rastra Bank,Equity
+252,Om Finance Ltd.,OFL,Om Finance Ltd.,D,info@omfinance.com,http://www.omfinance.com,Finance,Nepal Rastra Bank,Equity
+253,CMB Finance Limited,CMBF,CMB Finance Limited,D,cmbfl@wlink.com.np,,Finance,Nepal Rastra Bank,Equity
+254,Fewa Finance Co. Ltd.,FFCL,Fewa Finance Co. Ltd.,D,avu@avu.com,,Finance,Nepal Rastra Bank,Equity
+255,Prabhu  Bank Limited,PRVU,Prabhu  Bank Limited,A,amit.bhandari@prabhubank.com,,Commercial Banks,Nepal Rastra Bank,Equity
+256,Samriddhi Finance Company Limited,SFCL,Samriddhi Finance Company Limited,D,cs@sfcl.com.np,sfcl.com.np ,Finance,Nepal Rastra Bank,Equity
+257,Birgunj Finance Ltd.,BJFL,Birgunj Finance Ltd.,D,avu@avu.com,,Finance,Nepal Rastra Bank,Equity
+258,Everest Finance Ltd.,EFL,Everest Finance Ltd.,D,efl@efl.com.np,,Finance,Nepal Rastra Bank,Equity
+259,Capital Merchant Bank & Finance Co. Ltd.,CMB,Capital Merchant Bank & Finance Co. Ltd.,S,avu@avu.com,,Finance,Nepal Rastra Bank,Equity
+260,Prudential Finance Company Limited,PFIL,Prudential Finance Company Limited,D,info@pbsl.com.np,,Finance,Nepal Rastra Bank,Equity
+261,Shrijana Finance  (Bittaya Sanstha),SFFIL,Shrijana Finance  (Bittaya Sanstha),D,avu@avu.com,,Finance,Nepal Rastra Bank,Equity
+262,Apex Development Bank Ltd.,APEX,Apex Development Bank Ltd.,D,info@apexbanknepal.com,,Development Banks,Nepal Rastra Bank,Equity
+263,Guheswori Merchant Banking & Finance Ltd.,GMFIL,Guheshowori Merchant Bank & Finance Co. Ltd.,A,compliance@gmbf.com.np,www.gmbf.com.np,Finance,Nepal Rastra Bank,Equity
+264,IME Financial Institution,IMEFI,IME Financial Institution,D,avu@avu.com,,Finance,Nepal Rastra Bank,Equity
+265,Bhajuratna Finance & Saving Co. Ltd.,BFIL,Bhajuratna Finance & Saving Co. Ltd.,D,avu@avu.com,,Finance,Nepal Rastra Bank,Equity
+266,Patan Finance Limited,PFLBS,Patan Finance Limited,D,pafl@pafl.com,,Finance,Nepal Rastra Bank,Equity
+267,Supreme Development Bank Ltd.,SUPRME,Supreme Development Bank Ltd.,D,anna@anna.com,,Development Banks,Nepal Rastra Bank,Equity
+268,Swabalamban Laghubitta Bittiya Sanstha Limited,SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,A,finance@swbbl.com.np,www.swbbl.com.np,Microfinance,Nepal Rastra Bank,Equity
+269,NIDC Capital Markets Ltd.,NCMMF,NCM Mutual Fund,D,info@ncml.com.np,http://www.ncml.com.np,Finance,Nepal Rastra Bank,Mutual Funds
+270,Imperial Financial Inst. Ltd.,IFIL,Imperial Financial Inst. Ltd.,D,imperial@imperial.com,,Finance,Nepal Rastra Bank,Equity
+271,Society Development Bank Ltd.,SODBL,Society Development Bank Ltd.,D,himchulibbs@wlink.com.np,,Development Banks,Nepal Rastra Bank,Equity
+272,Civil Merchant Bittiya Santha Ltd.,CMBSL,Civil Merchant Bittiya Santha Ltd.,D,marketing@civilmbsl.com,,Finance,Nepal Rastra Bank,Equity
+273,ICFC Finance Limited,ICFC,ICFC Finance Limited,A,nepsereport@icfcbank.com,www.icfc.com.np,Finance,Nepal Rastra Bank,Equity
+274,Excel Development Bank Ltd.,EDBL,Excel Development Bank Ltd.,A,info@edb.com.np,,Development Banks,Nepal Rastra Bank,Equity
+275,Mahalaxmi BikasBank Limited,MLBL1,Mahalaxmi BikasBank Limited,D,malika@nepse.com,,Development Banks,Nepal Rastra Bank,Equity
+277,Everest Bank Limited,EBLCP,Everest Bank Limited Con. Pref.,D,sharedept@ebl.com.np,www.everestbankltd.com,Commercial Banks,Nepal Rastra Bank,Preference Shares
+278,Nepal Express Finance Ltd.,NEFL,Nepal Express Finance Ltd.,D,nepalxfinance@wlink.com.np,http://www.nepalexfinance.com,Finance,Nepal Rastra Bank,Equity
+279,Biratlaxmi Bikas Bank Limited,BLDBL,Biratlaxmi Bikas Bank Limited,D,info@biratlaxmibank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+280,Siddhartha Insurance Ltd.,SIL,Siddhartha Insurance Ltd.,D,info@siddharthainsurance.com,,Non Life Insurance,Nepal Insurance Board,Equity
+290,Infrastructure Development Bank Ltd.,IDBL,Infrastructure Development Bank Ltd.,D,info@idbank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+296,City Express Finance Co. Limited,CEFL,City Express Finance Co. Limited,D,legal@cityexpress.com.np,,Finance,Nepal Rastra Bank,Equity
+307,Nepal Doorsanchar Company Limited,NTC,Nepal Doorsanchar Company Limited,A,cs.nt@ntc.net.np,www.ntc.net.np,Others,N/A,Equity
+308,Prabhu Bikas Bank Limited,PRBBL,Prabhu Bikas Bank Limited,D,info@prabhufin.com.np,,Development Banks,Nepal Rastra Bank,Equity
+311,Deva Bikas Bank Limited,DBBL,Deva Bikas Bank Limited,D,info@devabank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+320,Lord Buddha Finance Limited,LBFIL,Lord Buddha Finance Limited,D,info@loardbuddhafinance.com.np,,Finance,Nepal Rastra Bank,Equity
+321,Sagarmatha  Finance Limited,SAFL,Sagarmatha  Finance Limited,D,info@sagarmatha.com.np,,Finance,Nepal Rastra Bank,Equity
+331,Subhechha Bikas Bank Limited,SUBBL,Subhechha Bikas Bank Limited,D,info@subbl.com.np,,Development Banks,Nepal Rastra Bank,Equity
+332,Kaski Finance Limited,KAFIL,Kaski Finance Limited,D,kafil@wlink.com.np,http://www.kaskifinance.com.np,Finance,Nepal Rastra Bank,Equity
+336,Clean Energy Development Bank Limited,CEDBL,Clean Energy Development Bank Limited,D,info@cedbl.com,http://www.cedbl.com,Development Banks,Nepal Rastra Bank,Equity
+337,Triveni Bikas Bank Limited,TBBL,Triveni Bikas Bank Limited,D,triveni@trivenibank.com.np,http://www.trivenibank.com.np,Development Banks,Nepal Rastra Bank,Equity
+338,Progressive Finance Limited,PROFL,Progressive Finance Limited,A,info@pfltd.com.np,http://www.pfltd.com.np,Finance,Nepal Rastra Bank,Equity
+340,Purwanchal Grameen Bikash Bank Limited,PGBL,Purwanchal Grameen Bikash Bank Limited,D,gbbn@wlink.com.np,http://www.grameenbirat.com.np,Development Banks,Nepal Rastra Bank,Equity
+341,Global IME Bank Limited,GBIME,Global IME Bank Limited,A,nlisting@gibl.com.np,http://www.globalimebank.com,Commercial Banks,Nepal Rastra Bank,Equity
+342,Reliable Development Bank Limited,REDBL,Reliable Development Bank Limited,D,info@reliablebank.com.np,http://www.reliablebank.com.np,Development Banks,Nepal Rastra Bank,Equity
+344,Axis Development Bank Limited,AXIS,Axis Development Bank Limited,D,pbank@wlink.com.np,http://www.pashupatibank.com.np,Development Banks,Nepal Rastra Bank,Equity
+345,Shikhar Finance Limited,SBSL,Shikhar Finance Limited,D,sbsl@mail.com.np,http://www.shikharfinance.com.np,Finance,Nepal Rastra Bank,Equity
+348,Citizens Bank International Limited,CZBIL,Citizens Bank International Limited,A,pramesh.kayastha@ctznbank.com,www.ctznbank.com,Commercial Banks,Nepal Rastra Bank,Equity
+349,Bank of Asia Nepal Limited,BOAN,Bank of Asia Nepal Limited,D,info@boa.com.np,,Commercial Banks,Nepal Rastra Bank,Equity
+356,Api Finance Limited,AFL,Api Finance Limited,D,api@fewanet.com.np,,Finance,Nepal Rastra Bank,Equity
+357,Prime Commercial Bank Ltd.,PCBL,Prime Commercial Bank Ltd.,A,santosh.baral@pcbl.com.np,www.primebank.com.np,Commercial Banks,Nepal Rastra Bank,Equity
+358,Lumbini Bikas Bank Ltd.,LBBL,Lumbini Bikas Bank Ltd.,A,info@lumbinibikasbank.com,www.lumbinibikasbank.com,Development Banks,Nepal Rastra Bank,Equity
+359,Sunrise Bank Limited,SRBL,Sunrise Bank Limited,D,info@sunrisebank.com.np,,Commercial Banks,Nepal Rastra Bank,Equity
+360,Arun Valley Hydropower Development Company Limited,AHPC,Arun Valley Hydropower Development Co. Ltd.,A,arunvalley2054@gmail.com,https://arunhydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+361,Crystal Finance Ltd.,CFL,Crystal Finance Ltd.,S,info@crystal.com.np,,Finance,Nepal Rastra Bank,Equity
+364,Madhyamanchal Gramin Development Bank Ltd.,MGBL,Madhyamanchal Gramin Development Bank Ltd.,D,info@mgbl.com.np,,Development Banks,Nepal Rastra Bank,Equity
+367,Public Development Bank Limited,PDB,Public Development Bank Limited,D,info@pdb.com.np,,Development Banks,Nepal Rastra Bank,Equity
+370,Mahakali Bikas Bank Limited,MBBL,Mahakali Bikas Bank Limited,D,info@mahakali.com.np,,Development Banks,Nepal Rastra Bank,Equity
+371,Miteri Development Bank Limited,MDB,Miteri Development Bank Limited,A,info@miteribank.com.np,http://www.miteribank.com.np,Development Banks,Nepal Rastra Bank,Equity
+383,Pathibhara Bikas Bank Limited,PBSL,Pathibhara Bikas Bank Limited,D,pathibharabank@nns.com.np,,Development Banks,Nepal Rastra Bank,Equity
+384,Resunga Bikas Bank Limited,RBSL,Resunga Bikas Bank Limited,D,resungabank@ntc.net.np,,Development Banks,Nepal Rastra Bank,Equity
+385,Asian Life Insurance Co Limited,ALICL,Asian Life Insurance Co. Limited,A,asianlife@asianlife.com.np,www.asianlife.com.np,Life Insurance,Nepal Insurance Board,Equity
+388,Kasthamandap Development Bank Limited,KDBL,Kasthamandap Development Bank Limited,D,kdbl@kdbl.com.np,http://www.kdbl.com.np,Development Banks,Nepal Rastra Bank,Equity
+389,Sewa Bikas Bank Limited,SEWA,Sewa Bikas Bank Limited,D,info@sewabank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+393,Himalayan Life Insurance Limited,HLI,Himalayan Life Insurance Limited,A,ishwar@himalayanlife.com.np,,Life Insurance,Nepal Insurance Board,Equity
+394,Nilgiri Bikas Bank Limited,NGBL,Nilgiri Bikas Bank Limited,D,info@mgbl.com.np,,Development Banks,Nepal Rastra Bank,Equity
+396,Nerude Mirmire Laghubitta Bittiya Sanstha Ltd.,NMLBBL,Nerude Mirmire Laghubitta Bittiya Sanstha Limited,A,info@nerudemirmire.com.np,https://www.nerudemirmire.com.np,Microfinance,Nepal Rastra Bank,Equity
+397,Agricultural Development Bank Limited,ADBL,Agricultural Development Bank Limited,A,cs@adbl.gov.np,,Commercial Banks,Nepal Rastra Bank,Equity
+398,Om Development Bank Ltd.,ODBL,Om Development Bank Ltd.,D,info@ombank.com.np,http://www.ombank.com.np,Development Banks,Nepal Rastra Bank,Equity
+401,Mahalaxmi Bikas Bank Ltd.,MLBL,Mahalaxmi Bikas Bank Ltd.,A,listing@mahalaxmi.com.np,http://www.mahalaxmibank.com,Development Banks,Nepal Rastra Bank,Equity
+403,SuryaJyoti Life Insurance Company Limited,SJLIC,SuryaJyoti Life Insurance Company Limited,A,it@suryalife.com,,Life Insurance,Nepal Insurance Board,Equity
+405,Udhyam Bikas Bank Limited,UBBL,Udhyam Bikas Bank Limited,D,edbl@wlink.com.np,,Development Banks,Nepal Rastra Bank,Equity
+406,Alpine Development Bank Limited,ALDBL,Alpine Development Bank Limited,D,info@alpinedevbank.com.np,http://www.alpinedevbank.com.np,Development Banks,Nepal Rastra Bank,Equity
+407,Suryadarshan Finance Company Limited,SDFL,Suryadarshan Finance Company Limited,D,sdfcl@wlink.com.np,http://www.sdfinance.com.np,Finance,Nepal Rastra Bank,Equity
+408,Zenith Finance Limited,ZFL,Zenith Finance Limited,D,info@zenith.com.np,,Finance,Nepal Rastra Bank,Equity
+409,Swastik Merchant Finance Co. Ltd.,SMF,Swastik Merchant Finance Co. Ltd.,D,info@smfcl.com.np,http://www.smfcl.com.np,Finance,Nepal Rastra Bank,Equity
+411,Subha Laxmi Finance Co. Ltd.,SLFL,Subha Laxmi Finance Co. Ltd.,D,subhalaxmi@wsn.com.np,http://www.shubhalaxmifinance.com.np,Finance,Nepal Rastra Bank,Equity
+412,Gaurishankar Development Bank Ltd.,GSDBL,Gaurishankar Development Bank Ltd.,D,info@gsdbl.com.np,,Development Banks,Nepal Rastra Bank,Equity
+413,Unique Finance Ltd.,UFIL,Unique Finance Ltd.,D,unique@uniquefinance.com.np,,Finance,Nepal Rastra Bank,Equity
+414,Professional Diyalo Bikas Bank Ltd.,PRDBL,Professional Diyalo Bikas Bank Ltd.,D,diyalobank@gmail.com,http://www.diyalobank.com.np,Development Banks,Nepal Rastra Bank,Equity
+416,Seti Finance Limited,SETI,Seti Finance Limited,D,info@seti.com.np,,Finance,Nepal Rastra Bank,Equity
+417,Garima Bikas Bank Limited,GBBL,Garima Bikas Bank Limited,A,info@garimabank.com.np,www.garimabank.com.np,Development Banks,Nepal Rastra Bank,Equity
+418,Jyoti Bikas Bank Limited,JBBL,Jyoti Bikas Bank Limited,A,krishna.oasti@jbbl.com.np,,Development Banks,Nepal Rastra Bank,Equity
+419,Kankai Bikas Bank Ltd.,KNBL,Kankai Bikas Bank Ltd.,D,kbbl@kankaibank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+420,Gandaki Bikas Bank Limited,GDBL,Gandaki Bikas Bank Limited,D,chhabindra@gandakibank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+421,Hathway Finance Company Limited,HATH,Hathway Finance Company Limited,D,bikram.malla@hathwayfinance.com,,Finance,Nepal Rastra Bank,Equity
+427,Kabeli Bikas Bank Limited,KEBL,Kabeli Bikas Bank Limited,D,kumar.khadka@kabelibank.com,,Development Banks,Nepal Rastra Bank,Equity
+428,Karnali Development Bank Limited,KRBL,Karnali Development Bank Limited,S,info@kdblnepal.com,www.kdblnepal.com,Development Banks,Nepal Rastra Bank,Equity
+441,Himalayan Finance Limited (Bittiya Sanstha),HFL,Himalayan Finance Limited (Bittiya Sanstha),S,info@hfl.com.np,,Finance,Nepal Rastra Bank,Equity
+442,Tinau Development Bank Limited,TNBL,Tinau Development Bank Limited,D,reporting@tinaubank.com,,Development Banks,Nepal Rastra Bank,Equity
+443,Araniko Development Bank Limited,ARDBL,Araniko Development Bank Limited,D,nabin@aranikobank.com,,Development Banks,Nepal Rastra Bank,Equity
+444,Valley Finance Limited,VFL,Valley Finance Limited,D,info@valley.com.np,,Finance,Nepal Rastra Bank,Equity
+445,Western Development Bank Limited,WDBL,Western Development Bank Limited,D,wdbldang@yahoo.com,http://www.wdbldang.com.np,Development Banks,Nepal Rastra Bank,Equity
+446,Professional Bikas Bank Ltd.,PRBL,Professional Bikas Bank Ltd.,D,info@prbl.com.np,,Development Banks,Nepal Rastra Bank,Equity
+447,Gurans Life Insurance Company Ltd.,GLICL,Gurans Life Insurance Company Ltd.,D,admin@guranslife.com,,Life Insurance,Nepal Insurance Board,Equity
+448,Country Development Bank Ltd.,CNDBL,Country Development Bank Ltd.,D,info@cdbank.com.np,http://www.cdbank.com.np,Development Banks,Nepal Rastra Bank,Equity
+450,Corporate Development Bank Limited,CORBL,Corporate Development Bank Limited,A,info@corporatebank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+451,Purnima Bikas Bank Ltd.,PURBL,Purnima Bikas Bank Ltd.,D,shailesh@purnimabank.com,,Development Banks,Nepal Rastra Bank,Equity
+459,Kamana Sewa Bikas Bank Limited,KSBBL,Kamana Sewa Bikas Bank Limited,A,pranay.tuladhar@kamanasewabank.com,https://www.kamanasewabank.com/,Development Banks,Nepal Rastra Bank,Equity
+460,Rara Bikas Bank Limited,RARA,Rara Bikas Bank Limited,D,rdbl@ntc.net.np,,Development Banks,Nepal Rastra Bank,Equity
+470,Hama Merchant & Finance Ltd.,HAMA,Hama Merchant & Finance Ltd.,D,info@hamafinance.com.np,,Finance,Nepal Rastra Bank,Equity
+471,Multipurpose Finance Company  Limited,MPFL,Multipurpose Finance Company  Limited,A,mfclfin43@gmail.com,,Finance,Nepal Rastra Bank,Equity
+472,SHANGRI-LA DEVELOPMENT BANK LIMITED,SADBL,Shangrila Development Bank Ltd.,A,info@shangrilabank.com,www.shangrilabank.com,Development Banks,Nepal Rastra Bank,Equity
+473,SHINE RESUNGA DEVELOPMENT BANK LTD,SHINE,Shine Resunga Development Bank Ltd.,A,info@srdb.com.np,https://srdb.com.np/,Development Banks,Nepal Rastra Bank,Equity
+474,Muktinath Bikas Bank Ltd.,MNBBL,Muktinath Bikas Bank Ltd.,A,info@muktinathbank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+487,Bhargav Bikash Bank Ltd.,BHBL,Bhargav Bikash Bank Ltd.,D,prjoshi@bhargavbank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+489,Bagmati Development Bank Ltd.,BGDBL,Bagmati Development Bank Ltd.,D,bagmatibank@info.com,,Development Banks,Nepal Rastra Bank,Equity
+490,First Micro Finance Laghubitta Bittiya Sanstha Limited,FMDBL,First Micro Finance Laghubitta Bittiya Sanstha Limited,A,bijay@fmdb.com.np,www.fmdb.com.np,Microfinance,Nepal Rastra Bank,Equity
+496,Janata Bank Nepal Ltd.,JBNL,Janata Bank Nepal Ltd.,D,bishwa.subedi@janatabank.com.np,http://www.janatabank.com.np,Commercial Banks,Nepal Rastra Bank,Equity
+502,Summit Micro Finance Development Bank Ltd.,SMFDB,Summit Laghubitta Bittiya Sanstha Limited,D,slbsl2065@gmail.com,,Microfinance,Nepal Rastra Bank,Equity
+503,Tourism Development Bank Limited,TDBL,Tourism Development Bank Limited,D,info@tdbl.com.np,http://www.tdbl.com.np,Development Banks,Nepal Rastra Bank,Equity
+504,Gulmi Bikas Bank Ltd.,GULMI,Gulmi Bikas Bank Ltd.,D,info@gulmi.com.np,,Development Banks,Nepal Rastra Bank,Equity
+505,Kanchan Development Bank Limited,KADBL,Kanchan Development Bank Limited,D,biruram@kanchanbank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+506,Nepal Consumer Development Bank Ltd.,NCDBL,Nepal Consumer Development Bank Ltd.,D,info@cndbl.com.np,,Development Banks,Nepal Rastra Bank,Equity
+512,Pacific Development Bank Limited,PADBL,Pacific Development Bank Limited,D,info@pcific.com.np,,Development Banks,Nepal Rastra Bank,Equity
+513,Metro Development Bank Limited,METRO,Metro Development Bank Limited,D,info@metrodevbank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+514,Rising Development Bank Ltd.,RDBL,Rising Development Bank Ltd.,D,info@risingbank.com,,Development Banks,Nepal Rastra Bank,Equity
+516,Manjushree Finance Ltd.,MFIL,Manjushree Finance Ltd.,A,info@manjushreefinance.com.np,manjushreefinance.com.np,Finance,Nepal Rastra Bank,Equity
+517,Nepal Bank Limited,NBL,Nepal Bank Limited,A,nbl.bodoffice@nepalbank.com.np,www.nepalbank.com.np,Commercial Banks,Nepal Rastra Bank,Equity
+526,Siddhartha Bank Limited,SIGS1,Siddhartha Investment Growth Scheme-1,D,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+529,Innovative Development Bank Ltd.,INDB,Innovative Development Bank Ltd.,D,info@indb.com,,Development Banks,Nepal Rastra Bank,Equity
+531,Kakre Bihar Bikash Bank Ltd,KKBL,Kakre Bihar Bikash Bank Ltd,D,info@kbbl.com,,Development Banks,Nepal Rastra Bank,Equity
+532,Civil Bank Ltd,CBL,Civil Bank Ltd,D,hirakaji.basnet@civilbank.com.np,,Commercial Banks,Nepal Rastra Bank,Equity
+533,Civic Development Bank Ltd,CIVIC,Civic Development Bank Ltd,D,civic@gmail.com,,Development Banks,Nepal Rastra Bank,Equity
+535,Bright Development Bank Ltd,BRTBL,Bright Development Bank Ltd,D,bright@gmail.com,,Development Banks,Nepal Rastra Bank,Equity
+536,International Development Bank Ltd,INDBL,International Development Bank Ltd,D,info@internationalbank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+537,Khandbari Development Bank Ltd,KHDBL,Khandbari Development Bank Ltd,D,info@khdbl.com,,Development Banks,Nepal Rastra Bank,Equity
+538,Nabil Bank Limited,NBF1,Nabil Balance Fund 1,D,company.affairs@nabilbank.com,www.nabilbank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+539,Commerz and Trust Bank Nepal Ltd.,CTBNL,Commerz and Trust Bank Nepal Ltd.,D,info@ctbnl.com,http://www.ctbanknepal.com,Commercial Banks,Nepal Rastra Bank,Equity
+545,Swarojgar Laghubitta Bittiya Sanstha Ltd.,SLBBL,Swarojgar Laghubitta Bittiya Sanstha Ltd.,A,info@slbbl.com.np,www.slbbl.com.np,Microfinance,Nepal Rastra Bank,Equity
+559,NLG Insurance Company Ltd.,NLG,NLG Insurance Company Ltd.,A,manoj.shrestha@nlgi.com.np,,Non Life Insurance,Nepal Insurance Board,Equity
+561,Sindhu Bikash Bank Ltd,SINDU,Sindhu Bikash Bank Ltd,A,info@sindhubank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+562,Mega  Bank Nepal Ltd.,MEGA,Mega  Bank Nepal Ltd.,D,nepse@megabank.com.np,,Commercial Banks,Nepal Rastra Bank,Equity
+563,Jhimruk Bikas Bank Ltd.,JHBL,Jhimruk Bikas Bank Ltd.,D,info@jhimruk.com,,Development Banks,Nepal Rastra Bank,Equity
+570,Mission Development Bank Ltd.,MIDBL,Mission Development Bank Ltd.,D,bishnuzi@missionbanknepal.com.np,,Development Banks,Nepal Rastra Bank,Equity
+571,Namaste Bittiya Sanstha Ltd.,NBSL,Namaste Bittiya Sanstha Ltd.,D,info@nbsl.com.np,,Finance,Nepal Rastra Bank,Equity
+572,Gaumukhee Bikas Bank Ltd.,GABL,Gaumukhee Bikas Bank Ltd.,D,gaumukhi.bijuwar@gmail.com,,Development Banks,Nepal Rastra Bank,Equity
+574,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,SKBBL,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,A,info@skbbl.com.np,http://www.skbbl.com.np,Microfinance,Nepal Rastra Bank,Equity
+575,RMDC Laghubitta Bittiya Sanstha Ltd.,RMDC,RMDC Laghubitta Bittiya Sanstha Ltd.,D,rmdc@rmdcnepal.com,http://www.rmdcnepalc.com,Microfinance,Nepal Rastra Bank,Equity
+576,Hamro Bikas Bank Ltd.,HAMRO,Hamro Bikas Bank Ltd.,D,paras.kandel@hamrobank.com,http://www.hamrobank.com,Development Banks,Nepal Rastra Bank,Equity
+577,Jebils Finance Ltd.,JEFL,Jebils Finance Ltd.,D,jln@jebils.com,http://www.jebil.com,Finance,Nepal Rastra Bank,Equity
+583,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,GBLBS,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,A,info@gblbs.com.np,http://www.grameenbanknepal.com,Microfinance,Nepal Rastra Bank,Equity
+587,Reliance Finance Ltd.,RLFL,Reliance Finance Ltd.,A,loginnepse@reliancenepal.com.np,,Finance,Nepal Rastra Bank,Equity
+588,Manaslu Bikas Bank Ltd.,MSBBL,Manaslu Bikas Bank Ltd.,D,info@manaslu.com,,Development Banks,Nepal Rastra Bank,Equity
+591,Sanima Mai Hydropower Limited,SHPC,Sanima Mai Hydropower Ltd.,A,sanimamai@sanimahydro.com,www.maihydro.com,Hydro Power,Nepal Hydropower Board,Equity
+592,Naya Sarathi Laghubitta Bittiya Sanstha Limited,NSLB,Naya Sarathi Laghubitta Bittiya Sanstha Limited,D,nimdilen@gmail.com,,Microfinance,Nepal Rastra Bank,Equity
+593,Kalika Laghubitta Bittiya Sanstha Ltd,KMCDB,Kalika Laghubitta Bittiya Sanstha Ltd,A,info@kalikabank.com.np,www.kalikabank.com.np,Microfinance,Nepal Rastra Bank,Equity
+595,Matribhumi Development Bank Ltd.,MTBL,Matribhumi Development Bank Ltd.,D,binodrajthapa@yahoo.com,,Development Banks,Nepal Rastra Bank,Equity
+598,Nepal Community Development Bank Ltd.,NCDB,Nepal Community Development Bank Ltd.,D,bhakta.khadka@ncdbank.com,http://www.ncdbank.com,Development Banks,Nepal Rastra Bank,Equity
+600,Cosmos Development Bank Ltd.,CSDBL,Cosmos Development Bank Ltd.,D,info@cosmosbank.com.np,,Development Banks,Nepal Rastra Bank,Equity
+601,Mithila LaghuBitta Bittiya Sanstha Limited,MLBBL,Mithila LaghuBitta Bittiya Sanstha Limited,A,mlboperationdepart@gmail.com,http://www.mldbank.com.np,Microfinance,Nepal Rastra Bank,Equity
+602,NagBeli LaghuBitta Bikas Bank Ltd.,NBBL,NagBeli LaghuBitta Bikas Bank Ltd.,D,nagbeli.nagbeli@gmail.com,,Microfinance,Nepal Rastra Bank,Equity
+605,Century Commercial Bank Ltd.,CCBL,Century Commercial Bank Ltd.,D,welcome@centurybank.com.np,,Commercial Banks,Nepal Rastra Bank,Equity
+608,Taragaon Regency Hotel Limited,TRHPR,Taragaon Regency Hotels Ltd. Preference Share,D,info@taragaon.com,,Hotels And Tourism,Ministry of Tourism,Preference Shares
+610,Ridi Power Company Limited,RIDI,Ridi Power Company Limited,A,sayikanepal@gmail.com,,Hydro Power,Nepal Hydropower Board,Equity
+614,Mount Makalu Development Bank Ltd.,MMDBL,Mount Makalu Development Bank Ltd.,D,info@mmdbank.com,,Development Banks,Nepal Rastra Bank,Equity
+616,Siddhartha Bank Limited,SEOS,Siddhartha Equity Orineted Scheme,D,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+617,Ekata Bikas Bank Ltd.,EKBL,Ekata Bikas Bank Ltd.,D,info@ekatabank.com.np,http://www.ekatabank.com.np,Development Banks,Nepal Rastra Bank,Equity
+618,Laxmi Laghubitta Bittiya Sanstha Ltd.,LLBS,Laxmi Laghubitta Bittiya Sanstha Ltd.,A,company.secretary@laxmilaghu.com.np,https://laxmilaghu.com.np/,Microfinance,Nepal Rastra Bank,Equity
+625,Sahara Bikas Bank Ltd.,SHBL,Sahara Bikas Bank Ltd.,D,info@sahara.com,,Development Banks,Nepal Rastra Bank,Equity
+627,Kalinchowk Development Bank Ltd.,KCDBL,Kalinchowk Development Bank Ltd.,D,info@kdevbank.com,,Development Banks,Nepal Rastra Bank,Equity
+629,NMB Bank Limited,NMBSF1,NMB Sulav Investment Fund-1,D,pramod.dahal@nmb.com.np,http://www.nmb.com.np,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+636,Nepal Investment Mega Bank Limited,NIBSF1,NIBL Samriddhi Fund 1,D,info@nimb.com.np,http://www.nimb.com.np,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+674,Laxmi Sunrise Bank Limited,LVF1,Laxmi Value Fund-1,D,piyush.aryal@laxmisunrise.com,www.laxmisunrise.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+679,Raptibheri Bikas Bank Ltd.,RBBBL,Raptibheri Bikas Bank Ltd.,D,raptibherimis@yahoo.com,,Development Banks,Nepal Rastra Bank,Equity
+680,Bhaktapur Finance Co. Ltd.,BFCL,Bhaktapur Finance Co. Ltd.,D,info@bktfinance.com,,Finance,Nepal Rastra Bank,Equity
+682,Mirmire Laghubitta Bittya Sanstha Limited,MMFDB,Mirmire Laghubitta Bittya Sanstha Limited,D,info@mirmirebank.com.np,http://www.mirmirebank.com.np,Microfinance,Nepal Rastra Bank,Equity
+686,Barun Hydropower Co. Ltd.,BARUN,Barun Hydropower Co. Ltd.,A,barunhydro@gmail.com,,Hydro Power,Nepal Hydropower Board,Equity
+687,Vijaya laghubitta Bittiya Sanstha Ltd.,VLBS,Vijaya laghubitta Bittiya Sanstha Ltd.,A,vlbs@vlbs.com.np,https://vlbs.com.np,Microfinance,Nepal Rastra Bank,Equity
+691,Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.,MSMBS,Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.,D,mahilasahayatra@gmail.com,,Microfinance,Nepal Rastra Bank,Equity
+692,Siddhartha Bank Limited,SBLD78,7.5% sbl debenture,D,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+693,Himalayan Laghubitta Bittiya Sanstha Limited,HLBSL,Himalayan Laghubitta Bittiya Sanstha Limited,A,info@himalayanlaghubitta.com,www.himalayanlaghubitta.com,Microfinance,Nepal Rastra Bank,Equity
+694,Matribhumi Lagubitta Bittiya Sanstha Limited,MATRI,Matribhumi Lagubitta Bittiya Sanstha Limited,A,bakhat2034@gmail.com,https://matribhumimf.com.np/,Microfinance,Nepal Rastra Bank,Equity
+695,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,JSLBB,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,A,info@jucbank.com.np,,Microfinance,Nepal Rastra Bank,Equity
+697,API POWER COMPANY LIMITED,API,Api Power Company Ltd.,A,apipowercompany@gmail.com,www.apipower.com.np,Hydro Power,Nepal Hydropower Board,Equity
+704,NMB  Microfinance Bittiya Sanstha Ltd.,NMBMF,NMB  Microfinance Bittiya Sanstha Ltd.,A,surya.thapa@nmbmicrofinance.com,http://www.cleanvillage.com.np,Microfinance,Nepal Rastra Bank,Equity
+705,Global IME Laghubitta Bittiya Sanstha Ltd.,GILB,Global IME Laghubitta Bittiya Sanstha Ltd.,A,info@gilb.com.np,http://www.gilb.com.np,Microfinance,Nepal Rastra Bank,Equity
+706,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,SWMF,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,A,pramesh.acharya@swmfi.com.np,www.swmfi.com.np,Microfinance,Nepal Rastra Bank,Equity
+1733,Saptakoshi Development Bank Ltd.,SKDBL,Saptakoshi Development Bank Ltd.,D,devi@skdbl.com.np,http://www.skdbl.com.np,Development Banks,Nepal Rastra Bank,Equity
+1735,Sajha Bikas Bank Ltd.,SAJHA,Sajha Bikas Bank Ltd.,D,info@sajhabank.com.np,http://www.sajhabank.com.np,Development Banks,Nepal Rastra Bank,Equity
+1740,Global IME Bank Limited,GIMES1,Global IME Samunnat Scheme-1,D,nlisting@gibl.com.np,http://www.globalimebank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+1741,Meromicrofinance Laghubitta Bittiya Sanstha Ltd.,MERO,Mero Microfinance Bittiya Sanstha Ltd.,A,meromicrofinance@gmail.com,www.meromicrofinance.com,Microfinance,Nepal Rastra Bank,Equity
+2742,Hydorelectricity Investment and Development Company Ltd,HIDCL,Hydorelectricity Investment and Development Company Ltd,A,info@hidcl.org.np,www.hidcl.org.np,Investment,Nepal Rastra Bank,Equity
+2743,Ngadi Group Power Ltd.,NGPL,Ngadi Group Power Ltd.,A,nyadigroup06@gmail.com,ngpl.com.npl,Hydro Power,Nepal Hydropower Board,Equity
+2744,Green Development Bank Ltd.,GRDBL,Green Development Bank Ltd.,A,info@greenbank.com.np,http://greenbank.com.np/,Development Banks,Nepal Rastra Bank,Equity
+2746,National  Laghubitta Bittiya Sanstha Limited,NMFBS,National Laghubitta Bittiya Sanstha Limited,A,hofficenmfbs@gmail.com,http://www.nationalmicrofinance.com.np,Microfinance,Nepal Rastra Bank,Equity
+2748,RSDC Laghubitta Bittiya Sanstha Ltd.,RSDC,RSDC Laghubitta Bittiya Sanstha Ltd.,A,info@rsdcmf.com,www.rsdcmf.com,Microfinance,Nepal Rastra Bank,Equity
+2750,Suryodaya Laghubitta Bittiya Sanstha Ltd.,SLBS,Suryodaya Laghubitta Bittiya Sanstha Ltd.,D,suryodayalaghubitta@gmail.com,,Microfinance,Nepal Rastra Bank,Equity
+2751,Khanikhola Hydropower Co. Ltd.,KKHC,Khanikhola Hydropower Co. Ltd.,A,khanikhola.hpc@gmail.com,www.kkhcl.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2752,NMB Bank Limited,NMBHF1,NMB Hybrid Fund L-1,D,pramod.dahal@nmb.com.np,http://www.nmb.com.np,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2753,Nabil Bank Limited,NEF,Nabil Equity Fund,D,company.affairs@nabilbank.com,www.nabilbank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2754,Dibyashwori Hydropower Ltd.,DHPL,Dibyashwori Hydropower Ltd.,A,dibyashwarihydropower@gmail.com,,Hydro Power,Nepal Hydropower Board,Equity
+2755,Nepal Investment Mega Bank Limited,NIBLPF,NIBL Pragati Fund,D,info@nimb.com.np,http://www.nimb.com.np,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2757,Arun Kabeli Power Ltd.,AKPL,Arun Kabeli Power Ltd.,A,arunkabeli@gmail.com,,Hydro Power,Nepal Hydropower Board,Equity
+2758,Forward Microfinance Laghubitta Bittiya Sanstha Limited,FOWAD,Forward Microfinance Laghubitta Bittiya Sanstha Limited,A,info@forwardmfbank.com.np,www.forwardmfbank.com.np,Microfinance,Nepal Rastra Bank,Equity
+2759,Synergy Power Development Ltd.,SPDL,Synergy Power Development Ltd.,A,email.synergy@gmail.com,www.synergyhydro.com,Hydro Power,Nepal Hydropower Board,Equity
+2760,United Modi Hydropower Ltd.,UMHL,United Modi Hydropower Ltd.,A,unitedmodi@ntc.net.np,www.umh.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2761,Samata Gharelu Laghubitta Bittiya Sanstha Limited,SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,A,samata@samata.org.np,www.samata.org.np,Microfinance,Nepal Rastra Bank,Equity
+2764,Swadeshi Laghubitta Bittiya Sanstha Ltd.,SDESI,Swadeshi Laghubitta Bittiya Sanstha Ltd.,D,audit@swadeshibank.com,,Microfinance,Nepal Rastra Bank,Equity
+2765,Laxmi Sunrise Bank Limited,LEMF,Laxmi Equity Fund,D,piyush.aryal@laxmisunrise.com,www.laxmisunrise.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2766,Chhyangdi Hydropower Ltd.,CHL,Chhyangdi Hydropower Ltd.,A,chhyangdihydropowerltd@gmail.com,,Hydro Power,Nepal Hydropower Board,Equity
+2767,Himalayan Power Partner Ltd.,HPPL,Himalayan Power Partner Ltd.,A,hpphydro.binaya@gmail.com,http://www.hpp.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2768,Mahuli Laghubitta Bittiya Sanstha Limited,MSLB,Mahuli Laghubitta Bittiya Sanstha Limited,A,saroj.singh@mslbsl.com.np,mslbsl.com.np,Microfinance,Nepal Rastra Bank,Equity
+2769,Nepal Hydro Developers Ltd,NHDL,Nepal Hydro Developers Ltd.,A,info@charnawathihydro.com,www.charnawatihydro.com,Hydro Power,Nepal Hydropower Board,Equity
+2770,Siddhartha Bank Limited,SEF,Siddhartha Equity Fund,A,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2771,Support Lagubitta Bittiya Sanstha Limited,SMB,Support Microfinance Bittiya Sanstha Ltd.,A,smicrofinance7@gmail.com,https://supportmicrofinance.com.np/,Microfinance,Nepal Rastra Bank,Equity
+2773,Sanima Bank Limited,SAEF,Sanima Equity Fund,D,sanima@sanimabank.com,www.sanimabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2774,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,A,gwagle99@gmail.com,https://unnatislbs.com.np,Microfinance,Nepal Rastra Bank,Equity
+2776,Radhi Bidyut Company Ltd,RADHI,Radhi Bidyut Company Ltd,A,info@radhibidyut.com.np,www.radhibidyut.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2777,Arambha Microfinance Bittiya Sanstha Ltd.,AMFI,Arambha Microfinance Bittiya Sanstha Ltd.,D,aarambhamicrofinance@gmail.com,http://www.aarambhamf.com.np,Microfinance,Nepal Rastra Bank,Equity
+2779,NIC Asia Bank Ltd.,NICGF,NIC Asia Growth Fund,D,nica.nots@nicasiabank.com,www.nicasiabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2780,Citizens Bank International Limited,CMF1,Citizens Mutual Fund -1,D,pramesh.kayastha@ctznbank.com,www.ctznbank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2781,Wean Nepal Laghubitta Bittiya Sanstha Limited,WNLB,Wean Nepal Laghubitta Bittiya Sanstha Limited,S,nepalseva@gmail.com,www.weannepal.com,Microfinance,Nepal Rastra Bank,Equity
+2783,Rairang Hydropower Development Company Ltd.,RRHP,Rairang Hydropower Development Company Ltd.,D,sayikanepal@gmail.com,http://www.ridihydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2784,Nadep Laghubittiya bittya Sanstha Ltd.,NADEP,Nadep Laghubittiya bittya Sanstha Ltd.,A,nadeplaghubitta@gmail.com,,Microfinance,Nepal Rastra Bank,Equity
+2786,Panchakanya Mai Hydropower Ltd,PMHPL,Panchakanya Mai Hydropower Ltd,A,panchakanyamai@gmail.com,,Hydro Power,Nepal Hydropower Board,Equity
+2787,Kalika power Company Ltd,KPCL,Kalika power Company Ltd,A,daraudikalikahydro@gmail.com,www.kalikapower.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2788,Ankhu Khola Jalvidhyut Company Limited,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,A,ankhukhola@yahoo.com,www.aankhukholahydropower.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2789,Joshi Hydropower Development Company Ltd,JOSHI,Joshi Hydropower Development Company Ltd,A,joshihydropowerdev@gmail.com,https://jhdc.com.np/,Hydro Power,Nepal Hydropower Board,Equity
+2790,Aarambha Chautari Laghubitta Bittya Sanstha Limited,ACLBSL,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,A,aarambhachautari@gmail.com,www.aarambhachautari.com,Microfinance,Nepal Rastra Bank,Equity
+2792,Upper Tamakoshi Hydropower Ltd,UPPER,Upper Tamakoshi Hydropower Ltd,A,office@utkhpl.org.np,www.tamakhosihydro.org.np,Hydro Power,Nepal Hydropower Board,Equity
+2804,Samudayik Laghubitta Bittiya Sanstha Limited,SLBSL,Samudayik Laghubitta Bittiya Sanstha Limited,A,info@slbsl.com.np,www.slbsl.com.np,Microfinance,Nepal Rastra Bank,Equity
+2806,Ghalemdi Hydro Limited,GHL,Ghalemdi Hydro Limited,A,info@ghalemdi.com,www.ghalemdi.com,Hydro Power,Nepal Hydropower Board,Equity
+2807,Asha Laghubitta Bittiya Sanstha Ltd.,ALBSL,Asha Laghubitta Bittiya Sanstha Ltd,A,info@ashamicrofinance.com.np,www.ashamicrofinance.com.np,Microfinance,Nepal Rastra Bank,Equity
+2809,Shivam Cements Limited,SHIVM,SHIVAM CEMENTS LTD,A,info@shivamcement.com,www.shivamcement.com,Manufacturing And Processing,Department of Industry,Equity
+2810,Universal Power Company Limited,UPCL,UNIVERSAL POWER COMPANY LTD,A,universal2067@gmail.com,www.universalpowercompany.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2811,Mountain Hydro Nepal Limited,MHNL,Mountain Hydro Nepal Limited,A,mountainhydronepal@gmail.com,www.mountainhydronepal.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2812,Sparsha Laghubitta Bittiya Sanstha Limited,SPARS,Sparsha Laghubitta Bittiya Sanstha Limited,D,info@sparshamicrofinance.com,www.sparshamicrofinance.com,Microfinance,Nepal Rastra Bank,Equity
+2813,Panchthar Power Company Ltd,PPCL,Panchthar Power Compant Limited,A,ppchewa@gmail.com,www.ppcl.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2815,Ganapati Laghubitta Bittiya Sanstha Ltd,GMFBS,Ganapati Laghubitta Bittiya Sanstha Limited,A,ganapati.micro@gmail.com,www.ganapatimicro.com.np,Microfinance,Nepal Rastra Bank,Equity
+2816,Nepal Agro Laghubitta Bittiya Sanstha Ltd.,NAGRO,Nepal Agro Laghubitta Bittiya Sanstha Limited,D,operation@nepalagro.com.np,www.nepalagro.com.np,Microfinance,Nepal Rastra Bank,Equity
+2824,Himalaya Urja Bikas Company Limited,HURJA,Himalaya Urja Bikas Company Limited,A,himalayaurja@gmail.com,www.himalurja.com,Hydro Power,Nepal Hydropower Board,Equity
+2825,NIC Asia Bank Ltd.,NICAD85/86,10% NIC Asia Debenture 2085/86,A,nica.nots@nicasiabank.com,www.nicasiabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2826,Gurans Laghubitta Bittiya Sanstha Ltd,GLBSL,Gurans Laghubitta Bittiya Sanstha Limited,A,info@glbsl.com.np,www.glbsl.com.np,Microfinance,Nepal Rastra Bank,Equity
+2828,Sanima Bank Limited,SAND2085,10% Sanima Bank Limited Debenture,A,sanima@sanimabank.com,www.sanimabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2829,Swabhumaan Laghubitta Bittiya Sanstha Ltd,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,A,info@swabhimaanlaghubitta.com.np,www.swabhimaanmicrofinance.com,Microfinance,Nepal Rastra Bank,Equity
+2831,Union Hydropower Limited,UNHPL,Union Hydropower Limited,A,unionhppl@gmail.com ,www.unionhydropower.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2832,Infinity Laghubitta Bittiya Sastha Ltd,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,A,ilbslfinance@gmail.com,www.infinitylbsl.com.np,Microfinance,Nepal Rastra Bank,Equity
+2834,Sunrise Bank Limited,SRD80,10% Sunrise Debenture 2080,D,info@sunrisebank.com.np,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2835,Nabil Bank Limited,NBF2,NABIL BALANCED FUND-2,A,company.affairs@nabilbank.com,www.nabilbank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2840,Global IME Bank Limited,GBD80/81,10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81,D,nlisting@gibl.com.np,http://www.globalimebank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2841,Rasuwagadhi Hydropower Company Limited,RHPL,RASUWAGADHI HYDROPOWER COMPANY LIMITED,A,neupane.nar@gmail.com,www.rghpcl.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2842,SANJEN JALAVIDHYUT COMPANY LTD,SJCL,SANJEN JALAVIDHYUT COMPANY LIMITED,A,sanjenhcl@gmail.com,www.sjcl.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2843,Sabaiko Laghubitta Bittiya Sanstha Limited,SABSL,Sabaiko Laghubitta Bittiya Sanstha Limited,D,info@sabaikolaghubitta.com,www.sabaikolaghubitta.com,Microfinance,Nepal Rastra Bank,Equity
+2845,Adhikhola Laghubitta Bittiya Sanstha Limited,AKBSL,Adhikhola Laghubitta Bittiya Sanstha Limited,D,adhikholalaghubitta@gmail.com,www.albs.com.np,Microfinance,Nepal Rastra Bank,Equity
+2850,NMB Bank Limited,NMBD2085,10 % NMB DEBENTURE 2085,A,pramod.dahal@nmb.com.np,http://www.nmb.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2851,Nepal Investment Mega Bank Limited,NIBD2082,10.5 % NEPAL INVESTMENT DEBENTURE 2082,D,info@nimb.com.np,http://www.nimb.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2852,ghodighoda laghubitta bittiya sanstha ltd,GGBSL,Ghodighoda Laghubitta Bittiya Sanstha Ltd.,D,ghodighoda.mfi@gmail.com,www.ghodighoda.com.np,Microfinance,Nepal Rastra Bank,Equity
+2854,Nepal Bangladesh Bank Limited,NBBD2085,10.25% NBBL Debenture 2085,A,bishwapoudel@nbbl.com.np,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2855,Tinau Mission Development Bank Ltd,TMDBL,Tinau Mission Development Bank Limited,D,reporting@tinaumissionbank.com,www.tinaumissionbank.com,Development Banks,Nepal Rastra Bank,Equity
+2859,Siddhartha Bank Limited,SIGS2,Siddhartha Investment Growth Scheme - 2,A,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2860,Saptakoshi Development bank Ltd,SAPDBL,Saptakoshi Development Bank Ltd,A,info@skdbl.com.np,www.skdbl.com.np,Development Banks,Nepal Rastra Bank,Equity
+2862,CBIL Capital Limited,CMF2,CITIZENS MUTUAL FUND 2,D,info@cbilcapital.com,www.cbilcapital.com,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+2863,NIC ASIA Capital Ltd,NICBF,NIC Asia Balanced Fund,A,info@nicasiacapital.com,www.nicasiacapital.com,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+2864,Siddhartha Bank Limited,SBLD83,10.25% SBL Debenture 2083,D,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2866,Machhapuchhre Bank Limited,MBLD2085,10.25% Machhapuchhre Bank Debenture 2085,A,machbank@mbl.com.np,http://www.machbank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2867,NMB Capital Ltd.,NMB50,NMB 50,D,mutualfunds@nmbcl.com.np,www.nmbcl.com.np,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+2868,NIC Asia Bank Ltd.,NICD83/84,10.25% NIC Asia Debenture 2083/84,D,nica.nots@nicasiabank.com,www.nicasiabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2869,NIC Asia Bank Ltd.,NICAD8283,11% NIC Asia Debenture 082/83,D,nica.nots@nicasiabank.com,www.nicasiabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2870,Bank of Kathmandu Ltd.,BOKD2079,8% BOK Debenture 2079,D,deepak.gautam@bok.com.np,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2871,Everest Bank Limited,EBLD2078,8% EBL Debenture 2078,D,sharedept@ebl.com.np,www.everestbankltd.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2872,Siddhartha Bank Limited,SBLD2082,10.50% SBL Debenture 2082,D,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2873,Himalayan Bank Limited,HBLD83,10% Himalayan Bank Debenture 2083,D,legal@himalayanbank.com,https://www.himalayanbank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2875,Prabhu  Bank Limited,PBLD86,10.25% Prabhu Bank  Debenture 2086,A,amit.bhandari@prabhubank.com,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2877,Laxmi Sunrise Bank Limited,SFMF,Sunrise First Mutual Fund,A,piyush.aryal@laxmisunrise.com,www.laxmisunrise.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2878,Sunrise Bank Limited,SRBLD83,10.25% Sunrise Bank Debenture 2083,A,info@sunrisebank.com.np,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2879,Laxmi Sunrise Bank Limited,LBLD86,10% Laxmi Bank Debenture 2086,A,piyush.aryal@laxmisunrise.com,www.laxmisunrise.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2880,Himal Dolakha Hydropower Com. Ltd.,HDHPC,Himal Dolakha Hydropower Company Limited,A,hydrohimaldolakha@gmail.com,www.himaldolakhahydro.com,Hydro Power,Nepal Hydropower Board,Equity
+2881,Nepal Reinsurance Company Limited,NRIC,Nepal Reinsurance Company Limited,A,nepalre@ntc.net.np,www.nepalre.com.np,Others,N/A,Equity
+2882,ICFC Finance Limited,ICFCD83,12% ICFC Finance Limited Debenture 2083,A,nepsereport@icfcbank.com,www.icfc.com.np,Finance,Nepal Rastra Bank,Non-Convertible Debentures
+2883,Goodwill Finance Limited,GWFD83,12 % Goodwill Finance Limited Debenture 2083,A,info@goodwill.net.np,https://goodwillfinance.com.np/,Finance,Nepal Rastra Bank,Non-Convertible Debentures
+2885,Kumari Bank Limited,KBLD86,10.25% KBL Debenture 2086,A,info@kumaribank.com,http://www.kumaribank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2886,Agricultural Development Bank Limited,ADBLD83,10.35% Agricultural Bank Debenture 2083,A,cs@adbl.gov.np,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2887,NIC ASIA Laghubitta Bittiya Sanstha Limited,NICLBSL,NIC ASIA Laghubitta Bittiya Sanstha Limited,A,deepit.shrestha@nicasialaghubitta.com,www.nicasialaghubitta.com,Microfinance,Nepal Rastra Bank,Equity
+2889,Citizens Bank International Limited,CIZBD86,10.25% Citizens Bank Debenture 2086,A,pramesh.kayastha@ctznbank.com,www.ctznbank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2890,Nepal SBI Bank Limited,SBIBD86,10% Nepal SBI Bank Debenture 2086,A,cs@nsbl.com.np,https://nsbl.statebank,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2892,Nabil Bank Limited,NBLD82,10% Nabil Debenture 2082,A,company.affairs@nabilbank.com,www.nabilbank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2893,Ajod Insurance Ltd,AIL,Ajod Insurance Limited,D,info@ajodinsurance.com,www.ajodinsurance.com,Non Life Insurance,Nepal Insurance Board,Equity
+2895,NIC Asia Bank Ltd.,NICAD8182,9% NIC Asia Debenture 2081/82,D,nica.nots@nicasiabank.com,www.nicasiabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2896,Sampada Laghubitta Bittiya Sanstha Limited,SMPDA,Sampada Laghubitta Bittiya Sanstha Limited,A,laxman.paudel@sampadalaghubitta.com.np,https://www.sampadalaghubitta.com.np/,Microfinance,Nepal Rastra Bank,Equity
+2898,NRN Infrastructure and Development Limited,NRN,NRN Infrastructure and Development Limited,A,nrn@nrnil.com,www.nrnil.com,Investment,Nepal Rastra Bank,Equity
+2900,Reliance Life Insurance Limited,RLI,Reliance Life Insurance Limited,D,info@relifeinsurance.com,www.relifeinsurance.com,Life Insurance,Nepal Insurance Board,Equity
+2902,Laxmi Capital Market Limited,LUK,Laxmi Unnati Kosh,A,info@laxmicapital.com.np,www.laxmicapital.com.np,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+2903,Liberty Energy Company Limited,LEC,Liberty Energy Company Limited,A,liberty@libertyenergy.com.np,www.libertyenergy.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2904,Prabhu  Bank Limited,PBLD84,10% Prabhu Bank Debenture 2084 ,A,amit.bhandari@prabhubank.com,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2905,General Insurance Company Nepal Ltd,GIC,General Insurance Company Nepal Ltd,D,ram@generalinsurance.com.np,www.gicnepal.com,Non Life Insurance,Nepal Insurance Board,Equity
+2907,Shiva Shree Hydropower Limited,SSHL,Shiva Shree Hydropower Ltd,A,shivashreehydropowerltd@gmail.com,www.shivashreehdyro.com,Hydro Power,Nepal Hydropower Board,Equity
+2908,Sanima GIC Insurance Limited,SGIC,Sanima GIC Insurance Limited,A,info@sgic.com.np,www.sgic.com.np,Non Life Insurance,Nepal Insurance Board,Equity
+2912,Siddhartha Bank Limited,SBLD84,8.5% SBL Debenture 2084,A,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2913,Mountain Energy Nepal Limited,MEN,Mountain Energy Nepal Limited,A,rajendra.sharma@mountainenergy.com.np,www.mountainenergy.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2914,United Idi Mardi & RB Hydropower Ltd,UMRH,United IDI Mardi RB Hydropower Limited.,A,unitedidimardi7mw@gmail.com,www.idimardihydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2915,Prabhu Mahalaxmi Life Insurance Limited,PMLI,Prabhu Mahalaxmi Life Insurance Limited,A,kishor.lamichhane@pmlil.com,www.pmlil.com,Life Insurance,Nepal Insurance Board,Equity
+2917,Chandragiri Hills Limited,CGH,Chandragiri Hills Limited,A,jhalak.sharma@chandragirihills.com,www.chandragirihills.com,Hotels And Tourism,Ministry of Tourism,Equity
+2919,Nepal Infrastructure Bank Limited,NIFRA,Nepal Infrastructure Bank Limited,A,jeeva.sapkota@nifrabank.com,https://www.nifrabank.com,Investment,Nepal Rastra Bank,Equity
+2922,Sanima Bank Limited,SBD87,8.5% Sanima Debenture 2087,A,sanima@sanimabank.com,www.sanimabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2923,Sanima Bank Limited,SLCF,Sanima Large Cap Fund,A,sanima@sanimabank.com,www.sanimabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2924,Greenlife Hydropower Limited,GLH,GreenLife Hydropower Limited,A,nepalgreenlife@gmail.com,www.greenlifehydropower.com.np,Hydro Power,Nepal Hydropower Board,Equity
+2925,Mahila Laghubitta Bittiya Sanstha Ltd,MLBSL,Mahila Lagubitta Bittiya Sanstha Limited ,A,mlbsl.nepal@gmail.com,www.mlbsl.com.np,Microfinance,Nepal Rastra Bank,Equity
+2929,Jyoti Life Insurance Company Limited,JLI,Jyoti Life Insurance Company Limited,D,info@jyotilife.com,www.jyotilife.com,Life Insurance,Nepal Insurance Board,Equity
+2931,Nepal Investment Mega Bank Limited,NIBD84,8.5% Nepal Investment Bank Debenture 2084,A,info@nimb.com.np,http://www.nimb.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2932,Manjushree Finance Ltd.,MFLD85,9.5% Manjushree Finance Limited Debenture 2085,A,info@manjushreefinance.com.np,manjushreefinance.com.np,Finance,Nepal Rastra Bank,Non-Convertible Debentures
+2933,Kumari Bank Limited,KEF,Kumari Equity Fund,A,info@kumaribank.com,http://www.kumaribank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+2934,Singati Hydro Energy Ltd,SHEL,Singati Hydro Energy Limited,A,shehydro@gmail.com,www.singatihydro.com,Hydro Power,Nepal Hydropower Board,Equity
+2935,Ru Ru Jalbidhyut  Pariyojana Ltd.,RURU,Ru Ru Jalbidhyut Pariyojana Limited,A,contact@ruruhydro.com,www.ruruhydro.com,Hydro Power,Nepal Hydropower Board,Equity
+2936,Nepal Credit And Commercial Bank Limited,NCCD86,9.5% NCC Debenture 2086,A,corporate@nccbank.com.np,http://www.nccbank.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+2937,Sunrise Bank Limited,SBCF,Sunrise Bluechip Fund,A,info@sunrisebank.com.np,,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+3946,CEDB Hydropower Development Company Limited,CHDC,CEDB Holdings Limited,A,chf@chf.com.np,www.chdc.com.np,Investment,Nepal Rastra Bank,Equity
+4947,Prabhu  Bank Limited,PSF,Prabhu Select Fund,A,amit.bhandari@prabhubank.com,,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+4948,Kamana Sewa Bikas Bank Limited,KSBBLD87,9% Kamana Sewa Bikas Bank Limited Debenture 2087,A,pranay.tuladhar@kamanasewabank.com,https://www.kamanasewabank.com/,Development Banks,Nepal Rastra Bank,Non-Convertible Debentures
+4949,Nepal Investment Mega Bank Limited,NIBSF2,NIBL Samriddhi Fund -2,A,info@nimb.com.np,http://www.nimb.com.np,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+4951,Jeevan Bikas Laghubitta Bittiya Sanstha Ltd,JBLB,Jeevan Bikas Laghubitta  Bittya Sanstha Ltd,A,info@jeevanbikasmf.com,www.jeevanbikasmf.com,Microfinance,Nepal Rastra Bank,Equity
+4955,Manakamana Smart Laghubitta Bittiya Sanstha Limited,MKLB,Manakamana Smart Laghubitta Bittiya Sanstha Limited,D,manakamanalbs@gmail.com,www.manakamanalbs.com,Microfinance,Nepal Rastra Bank,Equity
+4956,UnionLife Insurance Co. Ltd.,ULI,Union Life Insurance Company Limited,D,kapil@unionlife.com.np,www.unionlife.com.np,Life Insurance,Nepal Insurance Board,Equity
+4959,Nepal Bank Limited,NBLD87,8.5% Nepal Bank Debenture 2087,A,nbl.bodoffice@nepalbank.com.np,www.nepalbank.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+4960,Agricultural Development Bank Limited,ADBLB,4% Agricultural Bond,A,cs@adbl.gov.np,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+4961,Bank of Kathmandu Ltd.,BOKD86,8.5% BOK Debenture 2086,A,deepak.gautam@bok.com.np,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+4962,Prabhu  Bank Limited,PBLD87,8.5% Prabhu Bank Debenture 2087,A,amit.bhandari@prabhubank.com,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+4963,NMB Bank Limited,NMBD87/88,NMB Debenture 8.50% - 2087/88,A,pramod.dahal@nmb.com.np,http://www.nmb.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+4964,NMB Bank Limited,NMBEB92/93,NMB Energy Bond 4% - 2092/93,A,pramod.dahal@nmb.com.np,http://www.nmb.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+4965,Samaj Laghubitta Bittiya Sanstha Ltd,SAMAJ,Samaj Laghubittya Bittiya Sanstha Limited,D,samajlbsl@gmail.com,www.samajlaghubitta.org.np,Microfinance,Nepal Rastra Bank,Equity
+4967,NIC ASIA Capital Ltd,NICSF,NIC Asia Select Fund 30,A,info@nicasiacapital.com,www.nicasiacapital.com,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+4968,RBB Merchant Banking Limited,RMF1,RBB Mutual Fund 1,A,rbbmbl@rbbmbl.com.np,www.rbbmbl.com.np,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+4969,Muktinath Bikas Bank Ltd.,MND84/85,Muktinath Debenture 2084/85,A,info@muktinathbank.com.np,,Development Banks,Nepal Rastra Bank,Non-Convertible Debentures
+5982,Sanima Reliance Life Insurance Limited,SRLI,Sanima Reliance Life Insurance Limited,A,info@sanimareliancelife.com,www.sanimareliancelife.com,Life Insurance,Nepal Insurance Board,Equity
+5984,Laxmi Sunrise Bank Limited,LBLD88,8.5% Laxmi Bank Debenture 2088,A,piyush.aryal@laxmisunrise.com,www.laxmisunrise.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+6984,Prime Commercial Bank Ltd.,PBD85,8.75 % Prime Debenture 2085,A,santosh.baral@pcbl.com.np,www.primebank.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+6985,SHANGRI-LA DEVELOPMENT BANK LIMITED,SDBD87,Shangri-la Development Bank Debenture 2087,A,info@shangrilabank.com,www.shangrilabank.com,Development Banks,Nepal Rastra Bank,Non-Convertible Debentures
+7985,Machhapuchhre Bank Limited,MBLD87,8.5% Machhapuchchhre Debenture 2087,A,machbank@mbl.com.np,http://www.machbank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+7986,NIC Asia Bank Ltd.,NICD88,NIC ASIA Rinpatra 2088,A,nica.nots@nicasiabank.com,www.nicasiabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8003,Rastriya Banijya Bank,RBBD83,8.5% RBBL Debenture 2083,A,info.rbb@rbb.com.np,www.rbb.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8004,Global IME Bank Limited,GBILD86/87,Global IME Bank Limited Debenture 2086/87,A,nlisting@gibl.com.np,http://www.globalimebank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8005,Mailung Khola Jal Vidhyut Company Limited,MKJC,Mailung Khola Jal Vidhyut Company Limited,A,mailung.mkjc@gmail.com,www.mailunhkhola.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8018,Manushi Laghubitta Bittiya Sanstha Limited,MLBS,Manushi Laghubitta Bittiya Sanstha Limited,A,info@manushilbs.com.np,https://www.manushilbs.com,Microfinance,Nepal Rastra Bank,Equity
+8020,Jyoti Bikas Bank Limited,JBBD87,Jyoti Bikash Bank Bond 2087,A,krishna.oasti@jbbl.com.np,,Development Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8021,Sahas Urja Limited,SAHAS,Sahas Urja Limited,A,surja@sahasurja.com,www.sahasurja.com,Hydro Power,Nepal Hydropower Board,Equity
+8022,Terhathum Power Company Limited,TPC,Terhathum Power Company Limited,A,terathumpc@gmail.com,http://terhathumpower.com/,Hydro Power,Nepal Hydropower Board,Equity
+8023,Mega  Bank Nepal Ltd.,MMF1,Mega Mutual Fund -1,A,nepse@megabank.com.np,,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+8024,Nabil Bank Limited,NBF3,Nabil Balanced Fund-3,A,company.affairs@nabilbank.com,www.nabilbank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+8025,Samling power company limited,SPC,Samling Power Company Limited,A,info@spcl.com.np,spcl.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8026,Nyadi hydropower limited,NYADI,Nyadi Hydropower Limited,A,nhl@nhl.com.np,www.nhl.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8027,Nabil Bank Limited,NBLD85,Nabil Debenture 2085,A,company.affairs@nabilbank.com,www.nabilbank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8029,Agricultural Development Bank Limited,ADBLB86,Agricultural Bond (8 Year),A,cs@adbl.gov.np,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8030,Agricultural Development Bank Limited,ADBLB87,Agricultural Bond (9 Year),A,cs@adbl.gov.np,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8031,Madhya Bhotekoshi Jalavidyut Company Limited,MBJC,Madhya Bhotekoshi Jalavidyut Company Limited,A,admin@mbjcl.com.np,www.mbjcl.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8032,Buddha bhumi nepal hydro power company limited,BNHC,Buddha Bhumi Nepal Hydropower Company Limited,A,info@buddhabhumi.com,buddhabhuminepalhydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8033,Garima Bikas Bank Limited,GBBD85,"Garima Debenture, 2085",A,info@garimabank.com.np,www.garimabank.com.np,Development Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8034,Emerging nepal limited,ENL,Emerging Nepal Limited,A,mail@emergingnep.com,https://www.emergingnep.com,Investment,Nepal Rastra Bank,Equity
+8036,Rastra Utthan Laghubitta Sanstha Limited,RULB,Rastra Utthan Laghubitta Sanstha Limited,D,info@rulbsl.com.np,www.rulbsl.com.np,Microfinance,Nepal Rastra Bank,Equity
+8038,Jalpa Samudayik Laghubitta Sanstha Limited,JALPA,Jalpa Samudayik Laghubitta Bittiya Sanstha Limited,D,info@jalpamf.com.np,www.jalpamf.com.np,Microfinance,Nepal Rastra Bank,Equity
+8041,NESDO Sambridha Laghubitta Bittiya Sanstha Limited,NESDO,NESDO Sambridha Laghubitta Bittiya Sanstha Limited,A,nesdosmfi@gmail.com,https://slbs.nesdonepal.org,Microfinance,Nepal Rastra Bank,Equity
+8043,Civil Bank Ltd,CBLD88,Civil Bank Debenture 2088,A,hirakaji.basnet@civilbank.com.np,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8044,Everest Bank Limited,EBLD86,Everest Bank Limited,A,sharedept@ebl.com.np,www.everestbankltd.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8045,Green Ventures Limited,GVL,Green Ventures Limited,A,frontdesk@trivenihydro.com,www.greenventuresnepal.com,Hydro Power,Nepal Hydropower Board,Equity
+8055,Balephi Hydropower Limited,BHL,Balephi Hydropower Limited,A,info@balephihydro.com,www.balephihydro.com,Hydro Power,Nepal Hydropower Board,Equity
+8063,Upakar Laghubitta Bittiya  Sanstha  Limited,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,A,upakar.banke1@gmail.com,www.ulbsl.com.np,Microfinance,Nepal Rastra Bank,Equity
+8065,CYC Nepal laghubitta Bittiya Sanstha Limited,CYCL,CYC Nepal Laghubitta Bittiya Sanstha Limited,A,info@cycnlbsl.org.np,www.cycnlbsl.org.np,Microfinance,Nepal Rastra Bank,Equity
+8066,River Falls power Limited,RFPL,River Falls Power Limited,A,riverfallshydropower@gmail.com,www.riverfallshydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8068,Century Commercial Bank Ltd.,CCBD88,Century Debenture 2088,A,welcome@centurybank.com.np,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8070,Dordi Khola Jal Bidyut Company limited,DORDI,Dordi Khola Jal Bidyut Company Limited,A,info@dordikhola.com.np,www.dordikhola.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8071,Adarsha Laghubitta Bittiya Sanstha Limited,ADLB,Adarsha Laghubitta Bittiya Sanstha Limited,D,adarshalbbs@gmail.com,www.adarshamicrofinance.com,Microfinance,Nepal Rastra Bank,Equity
+8073,NIC Asia Bank Ltd.,NICFC,NIC Asia Flexi CAP Fund,A,nica.nots@nicasiabank.com,www.nicasiabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+8074,Kumari Bank Limited,KDBY,Kumari Dhanabriddhi Yojana,A,info@kumaribank.com,http://www.kumaribank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+8075,Bindhyabasini Hydropower Development Company Limited,BHDC,Bindhyabasini Hydropower Development Company Limited,A,info.bhdc@rmgroup.com.np,https://bindhyabasinihydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8076,Himalayan Hydropower Limited,HHL,Himalayan Hydropower Limited,A,himalayanhydro2021@gmail.com,www.hhpl.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8097,Prime Commercial Bank Ltd.,PBD88,10% Prime Debenture 2088,A,santosh.baral@pcbl.com.np,www.primebank.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8098,Siddhartha Bank Limited,SBLD89,10.75% SBL Debenture 2089,A,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8099,Upper Hewakhola Hydropower company Limited,UHEWA,Upper Hewakhola Hydropower Company Limited,A,upperhewahpc@gmail.com,upperhewahpc.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8100,Swet-Ganga Hydropower and Construction Limited,SGHC,Swet-Ganga Hydropower & Construction Limited ,A,sghcl@sanimahydro.com,www.swetgangahydropower.com,Hydro Power,Nepal Hydropower Board,Equity
+8102,Mandakini Hydropower Limited,MHL,Mandakini Hydropower Limited,A,mandakini.hydropower@gmail.com,www.mandakinihydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8104,Upper solu Electric company Limited,USHEC,Upper Solu Hydro Electric Company Limited,A,ushec@info.com.np,www.ushec.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8105,NMB Bank Limited,NMBUR93/94,NMB Energy Bond 4% - 2093/94 ,A,pramod.dahal@nmb.com.np,http://www.nmb.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8106,Global IME Balanced Fund-1,GIBF1,Global IME Balanced Fund-1,A,gimeb1@gicl.com.np,www.globalimecapital.com,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+8108,Rapti Hydro and General Construction Limited,RHGCL,Rapti Hydro And General Construction Limited,A,info@raptihydro.com.np,www.raptihydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8109,Sanima Bank Limited,SBD89,10.25% Sanima Debenture 2089,A,sanima@sanimabank.com,www.sanimabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8110,Nepal SBI Bank Limited,SBID83,10.25% Nepal SBI Bank Debenture 2083,A,cs@nsbl.com.np,https://nsbl.statebank,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8116,Prime Commercial Bank Ltd.,PBD84,10.15% Prime Debenture 2084,A,santosh.baral@pcbl.com.np,www.primebank.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8117,Aviyan laghubittya bittiya sanstha limited,AVYAN,Aviyan Laghubitta Bittiya Sanstha Limited,A,aviyanlaghu@gmail.com,https://www.aviyanlaghubitta.com/,Microfinance,Nepal Rastra Bank,Equity
+8119,Everest Bank Limited,EBLD85,10.50% Everest Bank Limited Debenture 2085,A,sharedept@ebl.com.np,www.everestbankltd.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8121,Sayapatri Hydropower Limited,SPHL,Sayapatri Hydropower Limited,A,sayapatrihydropowerlimited@gmail.com,www.sayapatrihydropowerlimited.com,Hydro Power,Nepal Hydropower Board,Equity
+8122,Peoples Power Limited,PPL,People's Power Limited,A,peoplespowerltd@gmail.com,www.peoplespower.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8123,Dhaulagiri laghubitta Sanstha Limited,DLBS,Dhaulagiri Laghubitta Bittiya Sanstha Limited,A,dlbsbank.headoffice@gmail.com,www.dhaulagiribank.com,Microfinance,Nepal Rastra Bank,Equity
+8125,NMB Capital Ltd.,NSIF2,NMB Sulav Investment Fund - 2,A,mutualfunds@nmbcl.com.np,www.nmbcl.com.np,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+8126,Sikles Hydropower Limited,SIKLES,Sikles Hydropower Limited,A,sikleshydro13mw@gmail.com,www.sikleshydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8127,Kumari Bank Limited,KBLD89,11% KBL Debenture 2089,A,info@kumaribank.com,http://www.kumaribank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+8128,Khaptad Laghubitta Bittiya Sanstha Ltd,KLBS,Khaptad Laghubitta Bittiya Sanstha Limited,D,info@khaptadmfi.com.np,www.khaptadmfi.com.np,Microfinance,Nepal Rastra Bank,Equity
+8131,Eastern Hydropower Limited,EHPL,Eastern Hydropower Limited,A,pikhuwakhola5@gmail.com,www.ehpl.com.np,Hydro Power,Nepal Hydropower Board,Equity
+8132,Shrijanshil Laghubitta Baittiya sanstha Limited,SHLB,Shrijanshil Laghubitta Bittiya Sanstha Limited,A,info@shrijanshil.com.np,www.shrijanshil.org,Microfinance,Nepal Rastra Bank,Equity
+8133,Peoples Hydropower Company Limited,PHCL,Peoples Hydropower Company Limited,A,peoples.hydro5@gmail.com,https://peopleshydro.com.np/				,Hydro Power,Nepal Hydropower Board,Equity
+9135,Barahi Hydropower Public Limited,BHPL,Barahi Hydropower Public Limited,A,bhpl.acc@gmail.com,www.barahihydropower.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9136,Bank of Kathmandu Ltd.,BOKD86KA,"BOK Debenture 2086 ""KA""",A,deepak.gautam@bok.com.np,,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9137,Himalayan Bank Limited,HBLD86,"Himalayan Bank Limited Bond, 2086",A,legal@himalayanbank.com,https://www.himalayanbank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9138,NIBL Growth Fund,NIBLGF,NIBL Growth Fund,A,info@niblcapital.com,www.niblcapital.com,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+9139,Sanima Growth Fund,SAGF,Sanima Growth Fund,A,sanimacapital@sanimabank.com,www.sanima.capital,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+9140,Unique Nepal Laghubitta Bittiya Sanstha Limited,UNLB,Unique Nepal Laghubitta Bittiya Sanstha Limited,A,info@unlbsl.com.np,https://uniquenepalmicrofinance.com.np,Microfinance,Nepal Rastra Bank,Equity
+9141,Nepal Infrastructure Bank Limited,NIFRAUR85/86,NIFRA Uraj Rinpatra7%-2085/86,A,jeeva.sapkota@nifrabank.com,https://www.nifrabank.com,Investment,Nepal Rastra Bank,Non-Convertible Debentures
+9146,Super Madi Hydropower Limited,SMHL,Super Madi Hydropower Limited,A,supermadihydro@gmail.com,www.supermadihydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9147,SHUVAM POWER LIMITED,SPL,Shuvam Power Limited,A,shuvampower@gmail.com,www.shuvamhydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9148,Supermai Hydropower Limited,SMH,Super Mai Hydropower Limited,A,supermaihydropower@gmail.com,www.supermaihydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9149,Maya Khola Hydropower Company Limited,MKHC,Maya Khola Hydropower Company Limited,A,dpshresths@gmail.com,www.mkhpcl.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9150,Asian Hydropower Limited,AHL,Asian Hydropower Limited,A,info@asianhydro.com.np,https://asianhydro.com.np/,Hydro Power,Nepal Hydropower Board,Equity
+9151,KALINCHOWK DARSHAN LIMITED ,KDL,Kalinchowk Darshan Limited,A,darshankalinchowk@gmail.com,www.kalinchowkdarshan.com.np,Hotels And Tourism,Ministry of Tourism,Equity
+9152,Everest Bank Limited,EBLEB89,"Everest Bank Limited Energy Bond, 2089",A,sharedept@ebl.com.np,www.everestbankltd.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9154,Sunrise Capital Limited,SFEF,Sunrise Focused Equity Fund,A,info@sunrisecapital.com.np,www.sunrisecapital.com.np,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9156,Sanima Middle Tamor Hydropower Limited,TAMOR,Sanima Middle Tamor Hydropower Limited,A,middletamor@sanimahydro.com,https://middletamor.com/,Hydro Power,Nepal Hydropower Board,Equity
+9158,Molung Hydropower Company Limited,MHCL,Molung Hydropower Company Limited,A,molung.office@gmail.com,www.molunghydropwer.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9159,Sagarmatha Jalabidhyut Company Limited,SMJC,Sagarmatha Jalabidhyut Company Limited,A,sagarmathahydropower@gmail.com,https://sagarmathajbc.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9161,Aatmanirbhar Laghubitta Bittitya Sanstha Limited,ANLB,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,A,aatmanirbhar2076@gmail.com,https://aatmanirbhar.com.np,Microfinance,Nepal Rastra Bank,Equity
+9163,BPW Laghubitta Bittiya Sanstha,BPW,BPW Laghubitta Bittiya Sanstha Limited,D,bpwlaghubitta@gmail.com,www.bpwlaghubitta.com.np,Microfinance,Nepal Rastra Bank,Equity
+9166,Makar Jitumaya Suri Hydropower Ltd ,MAKAR,Makar Jitumaya Suri Hydropower Limited,A,mjs.hydropower2065@gmail.com,www.mjshydropower.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9167,MaiKhola Hydropower Limited,MKHL,Mai Khola Hydropower Limited,A,maikholahydro@gmail.com,https://maikholahydropower.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9168,Global IME Bank Limited,GBILD84/85,"Global IME Bank Debenture, 2084/85",A,nlisting@gibl.com.np,http://www.globalimebank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9170,Dolti Power Company Ltd.,DOLTI,Dolti Power Company Limited,A,info@doltipower.com.np,www.doltipower.org.np,Hydro Power,Nepal Hydropower Board,Equity
+9171,Bhugol Energy Development Company Ltd,BEDC,Bhugol Energy Development Company Limited,A,energy.bhugol@gmail.com,www.bedc.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9173,CITY HOTEL LIMITED ,CITY,City Hotel Limited,A,info@cityhotel.com.np,https://cityhotel.com.np/,Hotels And Tourism,Ministry of Tourism,Equity
+9174,Prabhu Capital Limited,PRSF,Prabhu Smart Fund,A,info@prabhucapital.com, www.prabhucapital.com,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+9175,Menchhiyam Hydro Power Ltd,MCHL,Menchhiyam Hydropower Limited,A,menchhiyam@gmail.com,www.menchhiyamhydropower.com,Hydro Power,Nepal Hydropower Board,Equity
+9176,Ingwa Hydropower Limited,IHL,Ingwa Hydropower Limited,A,hydropoweringwa@gmail.com,www.ingwahydropowerltd.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9177,Standard Chartered Bank  Nepal Limited,SCBD,10.30% Standard Chartered Bank Limited Debenture,A,Legal.Nepal@sc.com,www.sc.com/np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9178,RBB Merchant Banking Limited,RMF2,RBB Mutual Fund 2,A,rbbmbl@rbbmbl.com.np,www.rbbmbl.com.np,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+9179,Modi Energy Limited,MEL,Modi Energy Limited,A,info@modihydro.com,www.modihydro.com,Hydro Power,Nepal Hydropower Board,Equity
+9180,NMB Bank Limited,NMBD89/90,NMB Debenture 10.75%-2089/90,A,pramod.dahal@nmb.com.np,http://www.nmb.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9181,Rawa Energy Development Ltd.,RAWA,Rawa Energy Development Limited,A,rawa.hydro@gmail.com,www.rawaenergy.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9182,Siddhartha Bank Limited,SIGS3,Siddhartha Investment Growth Scheme 3,A,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9183,Nepal Republic Media Ltd,NRM,Nepal Republic Media Limited,A,info@nagariknews.com,www.nepalrepublicmedia.com,Others,N/A,Equity
+9184,I.M.E. Life Insurance company Limited ,ILI,IME Life Insurance Company Limited,A,info@imelifeinsurance.com, www.imelifeinsurance.com ,Life Insurance,Nepal Insurance Board,Equity
+9191,Citizens Bank International Limited,C30MF,Citizens Super 30 Mutual Fund,A,pramesh.kayastha@ctznbank.com,www.ctznbank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9192, Upper Syange Hydropower Limited,USHL,Upper Syange Hydropower Limited,A,upper.syange@gmail.com,www.uppersyange.com,Hydro Power,Nepal Hydropower Board,Equity
+9193,Ghorahi Cement Industry Limited,GCIL,Ghorahi Cement Industry Limited,A,enquiry@ghorahicement.com,www.ghorahicement.com.np,Manufacturing And Processing,Department of Industry,Equity
+9194,Three Star Hydropower Ltd,TSHL,Three Star Hydropower Limited,A,sapsu2016@gmail.com,threestarhydro.com,Hydro Power,Nepal Hydropower Board,Equity
+9195,Mahalaxmi Bikas Bank Ltd.,MLBLD89,11% Mahalaxmi Debenture 2089,A,listing@mahalaxmi.com.np,http://www.mahalaxmibank.com,Development Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9196,Kutheli Bukhari Small Hydropower Ltd,KBSH,Kutheli Bukhari Small Hydropower Limited,A,kuthelihydro@gmail.com,kuthelihydropower.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9197,Lumbini Bikas Bank Ltd.,LBBLD89,11% L.B.B.L. Debenture 2089,A,info@lumbinibikasbank.com,www.lumbinibikasbank.com,Development Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9198,Laxmi Sunrise Bank Limited,LVF2,Laxmi Value Fund 2,A,piyush.aryal@laxmisunrise.com,www.laxmisunrise.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9199,Reliable Nepal Life Insurance Ltd,RNLI,Reliable Nepal Life Insurance Limited,A,share@reliablelife.com.np,https://reliablelife.com.np,Life Insurance,Nepal Insurance Board,Equity
+9201,Sun Nepal Life Insurance Company Limited,SNLI,Sun Nepal Life Insurance Company Limited,A,info@snlic.com.np,https://www.snlic.com.np/,Life Insurance,Nepal Insurance Board,Equity
+9203,Manakamana Engineering Hydropower Limited,MEHL,Manakamana Engineering Hydropower Limited,A,hydromanakamana@gmail.com,www.hydromanakamana.com.np				,Hydro Power,Nepal Hydropower Board,Equity
+9208,Upper Lohore Khola Hydropower Company Limited,ULHC,Upper Lohore Khola Hydropower Company Limited,A,upperlohore.hydro@gmail.com,www.ulkhp.com,Hydro Power,Nepal Hydropower Board,Equity
+9209,Citizen Life Insurance Company Limited,CLI,Citizen Life Insurance Company Limited,A,info@citizenlifenepal.com,www.citizenlifenepal.com,Life Insurance,Nepal Insurance Board,Equity
+9211,Nepal SBI Bank Limited,SBID89,9% Nepal SBI Bank Rinpatra 2089,A,cs@nsbl.com.np,https://nsbl.statebank,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9212,Mandu Hydropower Limited,MANDU,Mandu Hydropower Limited,A,info@manduhydropower.com,www.manduhydropower.com,Hydro Power,Nepal Hydropower Board,Equity
+9213,HATHWAY INVESTMENT NEPAL LIMITED,HATHY,Hathway Investment Nepal Limited,A,nepal.hathway@gmail.com,https://www.hathwaynepal.com.np/,Investment,Nepal Rastra Bank,Equity
+9214,Bhagawati Hyropower Development Company Ltd.,BGWT,Bhagawati Hydropower Development Company Limited,A,bhdcpokhara1@gmail.com,www.bhagawatihydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9215,Mid solu Hydropower Limited,MSHL,Mid Solu Hydropower Limited,A,midsolu.hydropower@gmail.com,https://midsoluhydropower.com.np/,Hydro Power,Nepal Hydropower Board,Equity
+9216,Sonapur Minerals And Oil Limited,SONA,Sonapur Minerals And Oil Limited,A,finance@sonacement.com,www.sonacement.com,Manufacturing And Processing,Department of Industry,Equity
+9217,Mathillo Mailun Khola Jalvidhyut Ltd.,MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,A,mailung@sanimahydro.com,sanimamailung.com,Hydro Power,Nepal Hydropower Board,Equity
+9218,Trishuli Jal Vidhyut Company Limited ,TVCL,Trishuli Jal Vidhyut Company Limited ,A,tjvclshare2080@gmail.com,,Hydro Power,Nepal Hydropower Board,Equity
+9220,Kumari Bank Limited,KBLD90,10% KBL Debenture 2090,A,info@kumaribank.com,http://www.kumaribank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9221,Himalayan Bank Limited,H8020,Himalayan 80-20,A,legal@himalayanbank.com,https://www.himalayanbank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9225,Vision Lumbini Urja Company Limited,VLUCL,Vision Lumbini Urja Company Limited ,A,urja@visionlumbini.com.np,www.visionlumbiniurja.com,Hydro Power,Nepal Hydropower Board,Equity
+9230,Muktinath Krishi Company Limited,MKCL,Muktinath Krishi Company Limited,A,info@muktinathkrishi.com,www.muktinathkrishi.com,Others,N/A,Equity
+9231,Citizens Bank International Limited,CIZBD90,10% Citizens Bank Debenture 2090,A,pramesh.kayastha@ctznbank.com,www.ctznbank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9232,Chirkhwa Hydropower Limited,CKHL,Chirkhwa Hydropower Limited ,A,chirkhwa@gmail.com,www.chirkhwahpl.com,Hydro Power,Nepal Hydropower Board,Equity
+9233,Nepal Warehousing Company Limited,NWCL,Nepal Warehousing Company Limited ,A,info@nwcl.com.np,www.nwcl.com.np,Others,N/A,Equity
+9234,Himalayan Reinsurance Limited,HRL,Himalayan Reinsurance Limited,A,contactus@himalayanre.com,www.himalayanre.com,Others,N/A,Equity
+9236,NIC Asia Bank Ltd.,NICGF2,NIC ASIA Growth Fund-2,A,nica.nots@nicasiabank.com,www.nicasiabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9238,Nabil Bank Limited,NABILD87,9% Nabil Debenture 2087,A,company.affairs@nabilbank.com,www.nabilbank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9241,Kumari Bank Limited,KSY,Kumari Sabal Yojana,A,info@kumaribank.com,http://www.kumaribank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9242,Sarbottam Cement Limited,SARBTM,Sarbottam Cement Limited,A,info@sarbottamcement.com,www.sarbottamcement.com,Manufacturing And Processing,Department of Industry,Equity
+9243,Nepal Investment Mega Bank Limited,NIMBD90,10% NIMB Debenture 2090,A,info@nimb.com.np,http://www.nimb.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9244,Nepal Investment Mega Bank Limited,NIBLSTF,NIBL Stable Fund,A,info@nimb.com.np,http://www.nimb.com.np,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9245,Muktinath Bikas Bank Ltd.,MNMF1,Muktinath Mutual Fund 1,A,info@muktinathbank.com.np,,Development Banks,Nepal Rastra Bank,Mutual Funds
+9246,GUARDIAN MICRO LIFE INSURANCE LIMITED,GMLI,Guardian Micro Life Insurance Limited ,A,info@gmli.co,www.gmli.com.np,Life Insurance,Nepal Insurance Board,Equity
+9248,Garima Bikas Bank Limited,GSY,Garima Samriddhi Yojana,A,info@garimabank.com.np,www.garimabank.com.np,Development Banks,Nepal Rastra Bank,Mutual Funds
+9249,ICFC Finance Limited,ICFCD88,9% ICFC Finance Limited Debenture 2088,A,nepsereport@icfcbank.com,www.icfc.com.np,Finance,Nepal Rastra Bank,Non-Convertible Debentures
+9250,Nepal Micro Insurance Company Limited,NMIC,Nepal Micro Insurance Company Limited,A,info@nepalmicro.com,www.nepalmicro.com,Non Life Insurance,Nepal Insurance Board,Equity
+9252,Crest Micro Life Insurance Limited,CREST,Crest Micro Life Insurance Limited,A,info@cmli.com.np,www.cmli.com.np,Life Insurance,Nepal Insurance Board,Equity
+9254,NMB Bank Limited,NMBHF2,NMB Hybrid Fund L- II,A,pramod.dahal@nmb.com.np,http://www.nmb.com.np,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9255,Everest Bank Limited,EBLD91,Everest Bank Limited Debenture 2091,A,sharedept@ebl.com.np,www.everestbankltd.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9256,Om Megashree Pharmaceuticals Limited,OMPL,Om Megashree Pharmaceuticals Limited,A,info@ommegashreepharmaceuticals.com,www.ommegashreepharmaceuticals.com,Manufacturing And Processing,Department of Industry,Equity
+9257,Machhapuchhre Bank Limited,MBLEF,MBL Equity Fund,A,machbank@mbl.com.np,http://www.machbank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9258,Pure Energy Limited,PURE,Pure Energy Limited,A,info@pureenergynepal.com,https://pureenergynepal.com/,Others,N/A,Equity
+9259,Reliable Nepal Life Insurance Ltd,RSY,Reliable Samriddhi Yojana,A,share@reliablelife.com.np,https://reliablelife.com.np,Life Insurance,Nepal Insurance Board,Mutual Funds
+9261,Nepal Infrastructure Bank Limited,NIFRAGED,Nifra Green Energy Debenture 6% - 2088/89,A,jeeva.sapkota@nifrabank.com,https://www.nifrabank.com,Investment,Nepal Rastra Bank,Non-Convertible Debentures
+9262,Trade Tower Limited,TTL,Trade Tower Limited,A,info@tradetower.com.np,,Others,N/A,Equity
+9263,Sanvi Energy Limited,SANVI,Sanvi Energy Limited,A,energysanvi513@gmail.com,www.sanvienergy.com,Hydro Power,Nepal Hydropower Board,Equity
+9264,Rastriya Banijya Bank,RBBD2088,7% RBBL Debenture 2088,A,info.rbb@rbb.com.np,www.rbb.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9266,NIC Asia Bank Ltd.,NICAD2091,7% NIC ASIA Debenture 2091,A,nica.nots@nicasiabank.com,www.nicasiabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9267,Bikash Hydropower Company Ltd,BHCL,Bikash Hydropower Company Limited,A,uppermachhakhola@gmail.com,www.bikashhydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9269,Global IME Bank Limited,GBIMESY2,Global IME Sammunat Yojana -2,A,nlisting@gibl.com.np,http://www.globalimebank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9270,Himstar Urja Company Ltd.,HIMSTAR,Him Star Urja Company Limited,A,urjahimstar@gmail.com,www.urjahimsta.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9271,Siddhartha Bank Limited,SBLD2091,7.25% SBL Debenture 2091,A,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9286,SHINE RESUNGA DEVELOPMENT BANK LTD,SHINED,Shine Resunga Debenture,A,info@srdb.com.np,https://srdb.com.np/,Development Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9287,Mabilung Energy Limited,MABEL,Mabilung Energy Limited,A,mabilung@gmail.com,www.mabilung.com,Hydro Power,Nepal Hydropower Board,Equity
+9289,Nepal SBI Bank Limited,SBID2090,7% Nepal SBI Bank Debenture 2090,A,cs@nsbl.com.np,https://nsbl.statebank,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9290,Himalayan Life Insurance Limited,HLICF,HLI Large Cap Fund,A,ishwar@himalayanlife.com.np,,Life Insurance,Nepal Insurance Board,Mutual Funds
+9293,Daramkhola hydro Energy Ltd.,DHEL,Daramkhola Hydro Energy Limited,A,daramkholahydroenergy@gmail.com,https://daramkholahydro.com,Hydro Power,Nepal Hydropower Board,Equity
+9294,Sagar Distillery Limited,SAGAR,Sagar Distillery Limited,A,legal@sagardistilleries.com,www.sagardistilleries.com,Manufacturing And Processing,Department of Industry,Equity
+9295,SWASTIK LAGHUBITTA BITTIYA SANSTHA LTD.,SWASTIK,Swastik Laghubitta Bittiya Sanstha Limited,A,swastik.financeanditdepart@gmail.com,www.swastikmicrofinance.com,Microfinance,Nepal Rastra Bank,Equity
+9296,Bungal Hydro Limited,BUNGAL,Bungal Hydro Limited,A,info.kghep@gmail.com,bungalhydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9297,Bandipur Cable Car and Tourism Limited,BANDIPUR,Bandipur Cablecar and Tourism Limited,A,information@bandipurhill.com,www.bandipurhill.com,Hotels And Tourism,Ministry of Tourism,Equity
+9299,Nabil Bank Limited,NABILD2089,7% Nabil Debenture 2089,A,company.affairs@nabilbank.com,www.nabilbank.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9300,Jhapa Energy Limited,JHAPA,Jhapa Energy Limited,A,solarpower@jhapaenergy.com.np,https://jhapaenergy.com.np/,Others,N/A,Equity
+9301,SHREENAGAR AGRITECH INDUSTRIES LIMITED,SAIL,Shreenagar Agritech Industries Limited,A,info@safnepal.com,www.safnepal.com,Manufacturing And Processing,Department of Industry,Equity
+9302,RBB Merchant Banking Limited,RBBF40,RBB Focus 40,A,rbbmbl@rbbmbl.com.np,www.rbbmbl.com.np,Mutual Fund,Nepal Rastra Bank,Mutual Funds
+9303,SY PANEL NEPAL LIMITED,SYPNL,SY Panel Nepal Limited,A,synepal34@gmail.com,https://synepal.com/about.php,Manufacturing And Processing,Department of Industry,Equity
+9304,Citizens Bank International Limited,CSY,Citizens Santulit Yojana,A,pramesh.kayastha@ctznbank.com,www.ctznbank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9305,Salapa Bikas Bank Limited,SABBL,Salapa Bikas Bank Limited,A,info@salapabikasbank.com.np,www.salapabikasbank.com.np,Development Banks,Nepal Rastra Bank,Equity
+9306,Reliance Spinning Mills Limited,RSML,Reliance Spinning Mills Limited,A,info@reliancespinningnepal.com,https://www.reliancespinningnepal.com/,Manufacturing And Processing,Department of Industry,Equity
+9308,Hotel Forest Inn Limited,HFIN,Hotel Forest Inn Limited,A,legal.hfin@gmail.com,https://hotelforestinn.com.np/,Hotels And Tourism,Ministry of Tourism,Equity
+9311,Solu Hydropower Limited,SOHL,Solu Hydropower Limited,A,info@soluhydro.com,www.soluhydro.com,Hydro Power,Nepal Hydropower Board,Equity
+9312,NEPAL LIFE INSURANCE COMPANY LIMITED,NSY,Nepal Life Samriddhi Lagani Yojana,A,info@nepallife.com.np,www.nepallife.com.np,Life Insurance,Nepal Insurance Board,Mutual Funds
+9322,Bhujung Hydropower Limited,BJHL,Bhujung Hydropower Limited,A,bhujung.hydro@gmail.com,,Hydro Power,Nepal Hydropower Board,Equity
+9323,Super Khudi Hydropower Ltd.,SKHL,Super Khudi Hydropower Limited,A,info@superkhudi.com.np,www.superkhudi.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9324,RIDGE LINE ENERGY LIMITED,RLEL,Ridge Line Energy Limited,A,info@ridgeline.com.np,www.ridgeline.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9325,Suryakunda Hydro Electric Limited,SKHEL,Suryakunda Hydro Electric Limited,A,info@suryakundahydro.com.np,www.suryakundahydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9326,Nabil Bank Limited,NABILPNP,Nabil 8% Perpetual Non Cumulative Preference Share,A,company.affairs@nabilbank.com,www.nabilbank.com,Commercial Banks,Nepal Rastra Bank,Preference Shares
+9327,ICFC Finance Limited,ICFCD89,8% ICFC Finance Limited Debenture 2089,A,nepsereport@icfcbank.com,www.icfc.com.np,Finance,Nepal Rastra Bank,Non-Convertible Debentures
+9328,Kamana Sewa Bikas Bank Limited,KSBBLPNP,KSBBL 9% Perpetual Non Cumulative Preference Share,A,pranay.tuladhar@kamanasewabank.com,https://www.kamanasewabank.com/,Development Banks,Nepal Rastra Bank,Preference Shares
+9329,Shikhar Power Development Ltd.,SIPD,Shikhar power Development Limited,A,shikhar.power71@gmail.com,shikharpower.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9330,Palpa Cement Industries Limited,PCIL,Palpa Cement Industries Limited,A,info@rmcnepal.com,www.tansencement.com,Manufacturing And Processing,Department of Industry,Equity
+9331,Siddhartha Bank Limited,SBLPNP,SBL 8.25% Perpetual Non Cumulative Preference Share,A,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Preference Shares
+9332,NMB Bank Limited,NMBPNP,NMB Perpetual Non Cumulative Preference Share-2081/82-8.25%,A,pramod.dahal@nmb.com.np,http://www.nmb.com.np,Commercial Banks,Nepal Rastra Bank,Preference Shares
+9333,Sanima Bank Limited,SANIMAPNP,8.25% Sanima Perpetual Non Cumulative Preference Share,A,sanima@sanimabank.com,www.sanimabank.com,Commercial Banks,Nepal Rastra Bank,Preference Shares
+9334,Kalinchock Hydropower Limited,KHPL,Kalinchock Hydropower Limited,A,kalinchwokhydro@gmail.com,http://khpl.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9335,Machhapuchhre Bank Limited,MBLPNP,8.25% Machhapuchchhre Perpetual Non Cumulative Preference Share,A,machbank@mbl.com.np,http://www.machbank.com,Commercial Banks,Nepal Rastra Bank,Preference Shares
+9336,Sopan Pharmaceuticals Limited,SOPL,Sopan Pharmaceuticals Limited,A,info@sopanpharma.com,www.sopanpharma.com,Manufacturing And Processing,Department of Industry,Equity
+9337,Appolo Hydropower Limited,APHL,Appolo Hydropower Limited,A,buku.khola@gmail.com,www.appolohydro.com,Hydro Power,Nepal Hydropower Board,Equity
+9342,Yambaling Hydropower Ltd.,YMHL,Yambaling Hydropower Limited,A,yambaling@gmail.com,https://yambalinghydropower.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9343,Taksar Pikhuwa Khola Hydropower Ltd.,TPKHL,Taksar Pikhuwa Khola Hydropower Limited,A,taksarpikhuwahpp2017@gmail.com,tpkhp.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9344,Snow Rivers Limited,SNORL,Snow Rivers Limited,A,info@snowrivers.com.np,www.snowrivers.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9345,Sanigad Hydro Limited,SGHL,Sanigad Hydro Limited,A,hydrosanigad@gmail.com,https://sanigadhydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9346,Kalanga Hydro Limited,KAHL,Kalanga Hydro Limited,A,hydrokalanga@gmail.com,www.kalangahydro.com.np,Hydro Power,Nepal Hydropower Board,Equity
+9347,Everest Colour Ltd.,ECL,Everest Colour Limited,A,ecinepal@gmail.com,www.everestcolour.com,Manufacturing And Processing,Department of Industry,Equity
+9348,Siddhartha Bank Limited,SEF2,Siddhartha Equity Fund 2,A,laxman.ghimire@sbl.com.np,www.siddharthabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9349,Sanima Bank Limited,SAEF2,Sanima Equity Fund-2,A,sanima@sanimabank.com,www.sanimabank.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9350,Laxmi Sunrise Bank Limited,LSH12,LS Horizon 12,A,piyush.aryal@laxmisunrise.com,www.laxmisunrise.com,Commercial Banks,Nepal Rastra Bank,Mutual Funds
+9351,Reliable Nepal Life Insurance Ltd,RSY2,Reliable Samriddhi Yojana -2,A,share@reliablelife.com.np,https://reliablelife.com.np,Life Insurance,Nepal Insurance Board,Mutual Funds
+9352,Mount Everest Power Development Limited,MEPDL,Mount Everest Power Development Limited,A,mounteverestpower@gmail.com,www.mounteveresthydro.com,Hydro Power,Nepal Hydropower Board,Equity
+9353,SARVOTTAM PAINTS INDUSTRIES LTD.,SAPIL,Sarvottam Paints Industries Limited,A,sarvottampaintsnepal@gmail.com,www.sarvottampaints.com,Manufacturing And Processing,Department of Industry,Equity
+9354,Prime Commercial Bank Ltd.,PBD93,"6.25% Prime Bank Debenture, 2093",A,santosh.baral@pcbl.com.np,www.primebank.com.np,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
+9355,Laxmi Sunrise Bank Limited,LSD92,7% Laxmi Sunrise Debenture 2092,A,piyush.aryal@laxmisunrise.com,www.laxmisunrise.com,Commercial Banks,Nepal Rastra Bank,Non-Convertible Debentures
